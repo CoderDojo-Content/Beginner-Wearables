@@ -11,3 +11,8 @@
 
 
 
+say what the final project is
+each card - how does this relate to the end product i.e. the project
+
+
+
