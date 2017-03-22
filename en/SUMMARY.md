@@ -1,7 +1,7 @@
 # Summary
 
-* [Getting setup](README.md)
-* [About this series](getting-setup.md)
+* [About this series](README.md)
+* [Getting setup](getting-setup.md)
 * [Making a circuit](first-card-trying-out-the-parts.md)
 * [Sewing / using the conductive thread](sewing-using-the-conductive-thread.md)
 * [Make your own switch!](make-your-own-switch.md)
