@@ -1,18 +1,21 @@
-1. You will need
-   1. conductive thread
-   2. LED - normal LED or sewable LED
-   3. Battery
-   4. Optional - switch - diff types available \(slide, push, etc\)
-   5. Coin cell holder \(battery compartment\) - some come with an integrated switch
-   6. fabric - something to attach your electronics to - e.g. clothing, felt \(OR use pins i.e. make badges?\)
-   <!-- TODO: INSERT PICTURES OF ALL OF THESE! -->
-
-1. Expected cost €50 - should be enough for dojo of 25 children
+1. These cards are going to introduce you to Wearable Electronics. You're going to get the chance to:
+ * learn about electronic circuits
+ * build a circuit using components especially designed to be sewn directly into clothes or accessories
+ * make a felt badge that lights up
+ * You'll end up with something that looks like this (though you can play around with colours and adding images to brighten it up if you like!).
+![](/assets/all app.png)
+<!-- picture: badge/patch -->
+2. You can make lots of these badges and join them together to make a glowing patchwork!
 
 
+3. Once you've learned these techniques, you can apply them to create more than just a quiz! These same coding tools can be used to make a complete interactive story, or to build a calculator, or a whole bunch of other cool apps.
 
-say what the final project is
-each card - how does this relate to the end product i.e. the project
+Intro to wearables
+- what they are
+- what we're going to make
+- examples of the cool stuff you can do with them (?)
 
+
+<!-- pictures -->
 
 
