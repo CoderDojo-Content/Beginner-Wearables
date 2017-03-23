@@ -1,4 +1,7 @@
-1. You will need
+1. The different parts of an electronic circuit are called *components*. Here is a list of the components we'll be using:
+ * A battery
+ * LEDs
+ * Sewable battery holder. This is a battery holder that's attached to a special board (called a *printed circuit board* or *PCB*) that you can sew onto your project 
 1. conductive thread
 2. LED - normal LED or sewable LED
 3. Battery

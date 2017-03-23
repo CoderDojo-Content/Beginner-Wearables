@@ -7,7 +7,7 @@
    
 
 
-L
+
 3. Add conductive thread to the equation --- or leave this to the switches topic? other ways to connect - crocodile clips? 
 --> crocodile clips if available, otherwise conductive thread and tape :)
 
