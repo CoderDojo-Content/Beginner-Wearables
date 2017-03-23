@@ -6,4 +6,7 @@
 
 4. The badge is designed so that lots of them can joined be together to make a glowing patchwork. 
 5. You can use this kind of technology to decorate clothes, bags, hats... The possibilities are unlimited!
+
 <!-- picture of some fancier wearables? -->
+![](/assets/all aapp.png)
+
