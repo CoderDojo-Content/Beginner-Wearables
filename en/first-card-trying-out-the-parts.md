@@ -1,4 +1,11 @@
 1. Let's create our first circuit!
+2. Take a look at the battery. You will see there is a plus sign '+' on one side. This is the *positive* end. The other side is *negative*, we write this with a minus sign '-'.
+3. Now look at the LED. There are two kinds of LED:
+ * A sewable LED has are marks showing you the '+' and '-'
+ * A regular LED has two "legs", or *leads*. Notice that one of them is shorter than the other. The shorter one is the '-' (negative). You can also tell the negative side by the flat part of the bulb
+ 
+ ![](/assets/all aapp.png) ![](/assets/all aapp.png)
+ 
 2. Get LED and battery and "connect" them by holding both pins to the battery, one on either side
    1. What happens when you try it one way around and then the other? Why do both ways not work?
    2. Look at the battery, find the +. This is called *positive*. Has to match up with the *positive* on the LED - longer pin, non-flat side, marked '+' on sewable LED
