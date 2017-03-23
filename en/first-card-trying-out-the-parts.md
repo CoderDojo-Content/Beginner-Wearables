@@ -19,7 +19,7 @@
 
 
 6. Add conductive thread to the equation --- or leave this to the switches topic? other ways to connect - crocodile clips? 
---> crocodile clips if available, otherwise conductive thread and tape :)
+--> crocodile clips if available, otherwise conductive thread and tape :) or use use the thread without tape - team up with the person beside you (unless you have four hands!)
 
 note about being careful about shorting the circuit with your fingers etc
 
@@ -28,15 +28,4 @@ note about being careful about shorting the circuit with your fingers etc
 4. Complete a circuit by everybody holding hands! (is this actually a good idea... encouraging kids to let electricity flow through them... but it's so cool... maybe a lesson - this teaches us that electricity can flow through humans & if it's stronger than this little battery that's BAD) * THIS DOESN'T ACTUALLY WORK ON THESE CIRCUITS :( *
 
 <!-- TODO: PICTURES!! --> 
-
-
-<!-- 
-
-if no crocodile clips, use the thread - team up with the person beside you (unless you have four hands!)
-
-
-
-
-
--->
 
