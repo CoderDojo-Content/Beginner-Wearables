@@ -11,7 +11,7 @@
 5. On the LED, the longer lead is *positive* or '+' and the shorter lead is *negative* or '-'. You can also identify '+' and '-' on an LED by looking closely at the bulb: the side with the flat edge is *negative*.
  * A sewable LED is built onto a tiny *printed circuit board* so it has holes instead of pins. The holes are marked with '+' and '-' signs.
 
- [picture]
+ [picture: LED flat edge closeup][picture: sewable LED]
 ![](/assets/all aapp.png) ![](/assets/all aapp.png)
  
 
