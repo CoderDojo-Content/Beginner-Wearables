@@ -14,9 +14,10 @@
  [picture: LED flat edge closeup][picture: sewable LED]
 ![](/assets/all aapp.png) ![](/assets/all aapp.png)
 6. [TODO]Add wiring to the equation
---> crocodile clips if available, otherwise conductive thread and tape :) or use use the thread without tape - team up with the person beside you (unless you have four hands!)
+--> crocodile clips if available, otherwise conductive thread and tape :)
 
-note about being careful about shorting the circuit with your fingers etc... maybe leave this until actual sewn circuits are constructed (since here they will be potentially holding onto bits.... or maybe for that reason don't even suggest holding the thread together by hand?? And ecourage keeping your hands out of the circuit)
+[possible note about being careful about shorting the circuit with your fingers etc... ecourage keeping your hands out of the circuit]
+7. Now we have a circuit that we can use to make a light-up badge!
 
 
 
