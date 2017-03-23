@@ -15,7 +15,7 @@
 ![](/assets/all aapp.png) ![](/assets/all aapp.png)
 6. [TODO]Add wiring to the equation
 --> crocodile clips if available, otherwise conductive thread and tape :)
-
+6. 
 [possible note about being careful about shorting the circuit with your fingers etc... ecourage keeping your hands out of the circuit]
 7. Now we have a circuit that we can use to make a light-up badge!
 
