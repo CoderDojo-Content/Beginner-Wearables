@@ -5,6 +5,6 @@
 * [Making a circuit](first-card-trying-out-the-parts.md)
 * [Adding a switch](make-your-own-switch.md)
 * [Sewing on components](sewing-using-the-conductive-thread.md)
-* [Adding more LEDs](adding-more-leds-to-your-circuit.md)
 * Complete a wearable circuit
+* [Adding more LEDs](adding-more-leds-to-your-circuit.md)
 
