@@ -13,9 +13,11 @@
 
  [picture: LED flat edge closeup][picture: sewable LED]
 ![](/assets/all aapp.png) ![](/assets/all aapp.png)
-6. [TODO]Add wiring to the equation
---> crocodile clips if available, otherwise conductive thread and tape :)
-6. 
+
+6. Separate the LED and the battery and get two pieces of conductive thread and some tape (if you have crocodile clips you can use these instead).
+
+7. Tape one end of the first thread to 
+
 [possible note about being careful about shorting the circuit with your fingers etc... ecourage keeping your hands out of the circuit]
 7. Now we have a circuit that we can use to make a light-up badge!
 
