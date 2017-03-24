@@ -16,7 +16,16 @@
 
 6. Separate the LED and the battery and get two pieces of conductive thread and some tape (if you have crocodile clips you can use these instead).
 
-7. Tape one end of the first thread to 
+7. Tape one end of the first thread to the *positive* side of the battery (the side with the '+') and tape the other end to the *positive* lead of the LED.
+[picture: battery closeup][picture: LED closeup]
+![](/assets/all aapp.png) ![](/assets/all aapp.png)
+
+8. Now take the second thread. Tape one end to the *negative* side of the battery and the other end to the *negative* lead of the LED. 
+Make sure the two threads are not touching or crossing over at any point. If they do this will cause a *short* in your circuit and it will not work properly.
+ 
+[picture: battery closeup][picture: LED closeup]
+![](/assets/all aapp.png) ![](/assets/all aapp.png)
+
 
 [possible note about being careful about shorting the circuit with your fingers etc... ecourage keeping your hands out of the circuit]
 7. Now we have a circuit that we can use to make a light-up badge!
