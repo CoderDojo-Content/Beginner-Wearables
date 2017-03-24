@@ -1,7 +1,7 @@
 1. Let's create our first circuit!
 2. Take an LED and connect it to a battery by holding both pins, called *leads* to the battery, one on either side. Notice that one of the leads of the LED is longer than the other one. The longer one should be connected to the side of the battery marked with a plus sign '+'. Watch your LED light up! 
 
- [picture]
+ [picture]![](/assets/all aapp.png)
  * Try flipping the battery over. Does it still work?
  
 3. In every circuit there is a *positive* and a *negative* direction. For electricity to flow you need to match up the *positive* ends and match up the *negative* ends of your components. This is why the LED doesn't light up when you flip the battery around.
