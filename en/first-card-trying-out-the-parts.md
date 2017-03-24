@@ -20,19 +20,14 @@
 [picture: battery closeup][picture: LED closeup]
 ![](/assets/all aapp.png) ![](/assets/all aapp.png)
 
-8. Now take the second thread. Tape one end to the *negative* side of the battery and the other end to the *negative* lead of the LED. 
-Make sure the two threads are not touching or crossing over at any point. If they do this will cause a *short* in your circuit and it will not work properly.
- 
-[picture: battery closeup][picture: LED closeup]
+8. Now take the second thread. Tape one end to the *negative* side of the battery and the other end to the *negative* lead of the LED.
+ [picture: battery closeup][picture: LED closeup]
 ![](/assets/all aapp.png) ![](/assets/all aapp.png)
 
+9. Make sure the two threads are not touching or crossing over at any point. If they do this will cause a *short* in your circuit and it will not work properly.
 
-[possible note about being careful about shorting the circuit with your fingers etc... ecourage keeping your hands out of the circuit]
-7. Now we have a circuit that we can use to make a light-up badge!
+10. Now we have a circuit that we can use to make a light-up badge!
 
 
 
-4. Complete a circuit by everybody holding hands! (is this actually a good idea... encouraging kids to let electricity flow through them... but it's so cool... maybe a lesson - this teaches us that electricity can flow through humans & if it's stronger than this little battery that's BAD) * THIS DOESN'T ACTUALLY WORK ON THESE CIRCUITS :( *
-
-<!-- TODO: PICTURES!! --> 
 
