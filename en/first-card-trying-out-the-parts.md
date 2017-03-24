@@ -25,6 +25,9 @@
 ![](/assets/all aapp.png) ![](/assets/all aapp.png)
 
 9. Make sure the two threads are not touching or crossing over at any point. If they do this will cause a *short* in your circuit and it will not work properly.
+> Electricity flows out of the *positive* side of the battery, through the thread, through the LED and through the second thread back into the battery, around and around. When you have a *short circuit*, the electricity tries to go the wrong way and that's why it stops working.
+   [**diagram?**]
+   
 
 10. Now we have a circuit that we can use to make a light-up badge!
 
