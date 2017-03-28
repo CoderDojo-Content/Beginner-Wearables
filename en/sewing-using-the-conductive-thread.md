@@ -2,7 +2,7 @@
 
 2. Cut a piece of felt to the size you want for your badge. Decide where you are going to put the LED, you could even mark the spot with a pen.
 
-3. If you are using a regular LED, you will need to bend the leads out into loops using a round-nosed pliers - you can ask a grown up to help you. If you have a sewable LED, skip this step!
+3. If you are using a regular LED, you will need to bend the pins out into loops using a round-nosed pliers. This makes the LED a bit flatter so it can lie on your fabric, and creates loops that you can sew thread through. If you have a sewable LED, skip this step!
 [picture: pliers LED loops]![](/assets/all aapp.png)
 
 4. Thread your needle! Take a piece of conductive thread, about 30cm long, and pull one end of it through the hole in the needle (called the *eye*). This can be pretty fiddly. If the thread is frayed at the end, cut off the frayed bits with a scissors. Once the needle is threaded, the thread will be hanging out in two pieces. Pull one of them so it is a good bit longer than the other and tie a knot in the very end of the long piece.
