@@ -9,6 +9,7 @@
 5. You can use this kind of technology to decorate clothes, bags, hats... The possibilities are unlimited!
 
 [picture of some fancier wearables?]
+[include pic of flower headband!]
 ![](/assets/all aapp.png)
 
 
