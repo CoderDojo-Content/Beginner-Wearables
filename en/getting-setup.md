@@ -27,8 +27,3 @@
  * Round-nosed pliers (required for sewing regular LEDs)
  * Tape
  
-
----Expected cost €50 - should be enough for dojo of 25 children ---[as mentioned before does this go here or outside of the actual sushi cards?]
-
-
-
