@@ -1,7 +1,8 @@
 1. The different parts of an electronic circuit are called *components*. Here is a list of the components you'll be using:
  * A battery
  
- ![](/assets/batteries_small.png)
+ ![](/assets/batteries_140_tr.png)
+ ![](/assets/batteries_140_tr_border.png)
  * LEDs - these could be regular LEDs or sewable ones
 
  ![](/assets/leds_mix.png)
