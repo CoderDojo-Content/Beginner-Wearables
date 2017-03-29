@@ -12,7 +12,7 @@
  * A sewable LED is built onto a tiny *printed circuit board* so it has holes instead of pins. The holes are marked with '+' and '-' signs.
 
  [picture: LED flat edge closeup][picture: sewable LED]
-![](/assets/all aapp.png) ![](/assets/all aapp.png)
+![](/assets/LED_negative_arrow_bigger.png) ![](/assets/all aapp.png)
 
 6. Separate the LED and the battery and get two pieces of conductive thread and some tape (if you have crocodile clips you can use these instead).
 
