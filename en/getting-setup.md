@@ -5,6 +5,7 @@
  ![](/assets/LEDs_mix_200_363_650.png)
  * Sewable battery holder. This is a battery holder that's attached to a special board (called a *printed circuit board* or *PCB*) that you can sew onto your project 
  ![](/assets/battery_holders_180_235_650.png)
+ 
  * Conductive thread. This is like embroidery thread but it contains metal so that electricity can flow through it. We say that it *conducts* electricity.
  ![](/assets/thread_small.png)
  * Crocodile clips (optional)
