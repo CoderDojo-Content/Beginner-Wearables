@@ -12,8 +12,9 @@
 4. On the battery, the side with the plus sign '+' is the *positive* end. The other side is *negative*, which we write with a minus sign '-'.
 
 5. On the LED, the longer pin is *positive* or '+' and the shorter pin is *negative* or '-'. You can also identify '+' and '-' on an LED by looking closely at the bulb: the side with the flat edge is *negative*.
- * A sewable LED is built onto a tiny *printed circuit board* so it has holes instead of pins. The holes are marked with '+' and '-' signs.
- 
+ * A sewable LED is built onto a tiny *printed circuit board* so it has holes instead of pins. The holes are marked with '+' and '-' signs. ![](/assets/leds_border.png)
+ ![](/assets/leds_border.png)
+![](/assets/leds_border.png)
  
 ![](/assets/leds_neg_sewable_tr.png) 
 ![](/assets/leds_neg_sewable_tr_border.png) 
