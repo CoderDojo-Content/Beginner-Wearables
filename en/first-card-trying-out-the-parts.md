@@ -11,7 +11,7 @@
 5. On the LED, the longer pin is *positive* or '+' and the shorter pin is *negative* or '-'. You can also identify '+' and '-' on an LED by looking closely at the bulb: the side with the flat edge is *negative*.
  * A sewable LED is built onto a tiny *printed circuit board* so it has holes instead of pins. The holes are marked with '+' and '-' signs.
 [picture: sewable LED]
- ![](/assets/LED_negative_arrow_bigger.png) ![](/assets/all aapp.png)
+ ![](/assets/LED_negative_arrow_bigger.png) ![](/assets/led_sewable.png)
 
 6. Separate the LED and the battery and get two pieces of conductive thread and some tape (if you have crocodile clips you can use these instead).
 
