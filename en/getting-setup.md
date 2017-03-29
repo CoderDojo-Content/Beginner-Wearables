@@ -7,7 +7,7 @@
  ![](/assets/battery_holders_180_235_650.png)
  
  * Conductive thread. This is like embroidery thread but it contains metal so that electricity can flow through it. We say that it *conducts* electricity.
- ![](/assets/thread_small.png)
+ ![](/assets/thread_150_268_650.png)
  * Crocodile clips (optional)
  ![](/assets/crocs_300_328_650.png)
  * A switch. You will see there are lots of different kinds of switches.
