@@ -3,6 +3,10 @@
  
  ![](/assets/batteries_140_tr.png)
  ![](/assets/batteries_140_tr_border.png)
+ 
+
+ ![](/assets/batteries_140_tr_border.png)
+ 
  * LEDs - these could be regular LEDs or sewable ones
 
  ![](/assets/leds_mix.png)
