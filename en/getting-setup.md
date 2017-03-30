@@ -1,9 +1,9 @@
 1. The different parts of an electronic circuit are called *components*. Here is a list of the components you'll be using:
- * A battery ![](/assets/batteries_140_289_650.png) 
+ * A battery ![](/assets/batteries_100_202_650.png) 
  
- * LEDs - these could be regular LEDs or sewable ones ![](/assets/LEDs_mix_200_363_650.png)
+ * LEDs - these could be regular LEDs or sewable ones ![](/assets/LEDs_mix_150_272_650.png)
  
- * Sewable battery holder. This is a battery holder that's attached to a special board (called a *printed circuit board* or *PCB*) that you can sew onto your project ![](/assets/battery_holders_180_235_650.png)
+ * Sewable battery holder. This is a battery holder that's attached to a special board (called a *printed circuit board* or *PCB*) that you can sew onto your project ![](/assets/battery_holders_150_196_650.png)
  
  * Conductive thread. This is like embroidery thread but it contains metal so that electricity can flow through it. We say that it *conducts* electricity. ![](/assets/thread_150_268_650.png)
  * Crocodile clips (optional) ![](/assets/crocs_300_328_650.png)
