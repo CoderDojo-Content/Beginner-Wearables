@@ -11,9 +11,9 @@
 
 6. Separate the LED and the battery and get two pieces of conductive thread and some tape (if you have crocodile clips you can use these instead).
 
-7. Tape one end of the first thread to the *positive* side of the battery (the side with the '+') and tape the other end to the *positive* pin of the LED. ![](/assets/circuit_pos_250_318_650.png) 
+7. Tape one end of the first thread to the *positive* side of the battery (the side with the '+') and tape the other end to the *positive* pin of the LED. ![](/assets/circuit_pos_150_191_650.png) 
 
-8. Now take the second thread. Tape one end to the *negative* side of the battery and the other end to the *negative* pin of the LED. ![](/assets/circuit_complete_178_500_650.png) 
+8. Now take the second thread. Tape one end to the *negative* side of the battery and the other end to the *negative* pin of the LED. ![](/assets/circuit_complete_107_300_650.png) 
 
 9. Make sure the two threads are not touching or crossing over at any point. If they do this will cause a *short* in your circuit and it will not work properly.
 > Electricity flows out of the *positive* side of the battery, through the thread, through the LED and through the second thread back into the battery, around and around. When you have a *short circuit*, the electricity tries to go the wrong way and that's why it stops working.
