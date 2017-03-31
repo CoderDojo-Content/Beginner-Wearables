@@ -20,3 +20,5 @@
  
 9. Congratulations! You have sewn a complete wearable circuit! Insert a battery into the battery holder, with the + facing up (the holder will have a mark to show you the + side too) and watch your LED light up :D
 
+10. If you like, you could sew on an extra piece of felt to cover the battery holder using some ordinary embroidery thread or any plain thread. You can also decorate your badge with different coloured felt or thread. You design your own fashion!
+
