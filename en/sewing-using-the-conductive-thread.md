@@ -6,14 +6,14 @@
 3. Thread your needle! Take a piece of conductive thread, about 30cm long, and pull one end of it through the hole in the needle (called the *eye*). This can be pretty fiddly. If the thread is frayed at the end, cut off the frayed bits with a scissors. Once the needle is threaded, the thread will be hanging out in two pieces. Pull one of them so it is a good bit longer than the other and tie a knot in the very end of the long piece.
 [picture] ![](/assets/all aapp.png)
 
-4. Ready to start sewing? Place your LED onto the felt at the spot you have chosen. With one hand, hold onto the felt and the LED. With the other hand, place the tip of the needle **behind** the felt and push it through so that it comes out through the *positive* hole of the LED. 
+4. Ready to start sewing? Place your LED onto the felt at the spot you have chosen. With one hand, hold onto the felt and the LED. With the other hand, place the tip of the needle **behind** the felt and push it through so that it comes out through the *negative* hole of the LED. 
 [picture: needle going through front and maybe back]![](/assets/all aapp.png)
 
 5. Pull the needle and thread all the way through at the front, pinching the eye of the needle so the short end of the thread doesn't fall out. You want to keep pulling until only the knot remains at the back.
  * If your thread falls out of the needle, it's ok, you can re-thread it. When pulling the thread through the felt, try holding the needle by the eye and pinching the thread tightly there to keep it from falling out.
 [picture: thread being pulled through] ![](/assets/all aapp.png)
 
-6. Now, place the tip of the needle **right beside** the *positive* hole of the LED (the one it just came through), but **not inside** it. Like this:
+6. Now, place the tip of the needle **right beside** the *negative* hole of the LED (the one it just came through), but **not inside** it. Like this:
 [picture] ![](/assets/all aapp.png)
 
 7. Push the needle through the felt so it comes out the back. Grab the needle behind the felt and pull it all the way through, just like you did at the front. You've just sewn your first stitch! It should look something like this:
