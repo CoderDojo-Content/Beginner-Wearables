@@ -12,5 +12,11 @@
 
 7. Cut the thread so that only a tiny bit is hanging out of the felt. 
 
-8. You now have half of your circuit sewn!
+8. You now have half of your circuit sewn. To complete the circuit, you need to connect the *negative* hole on the LED with the *negative* hole on the battery holder. Use the same method you already used to connect the *positives*:
+ * Secure the LED with 5 stitches through the *negative* hole
+ * Sew a *running stitch* all the way to one *negative* hole of the battery holder. **Important!** Make sure the path for your *negative* thread **does not cross or touch** the *positive* thread anywhere. Remember, this would cause a *short circuit* (a bad thing)!
+ * Sew 5 stitches through the *negative* hole of the battery holder
+ * Secure the thread with 3 tiny stitches all in the same place before cutting it short.
+ 
+9. Congratulations! You have sewn a complete wearable circuit! Insert a battery into the battery holder, with the + facing up (the holder will have a mark to show you the + side too) and watch your LED light up :D
 
