@@ -7,7 +7,7 @@
 [picture] ![](/assets/all aapp.png)
 
 4. Ready to start sewing? Place your LED onto the felt at the spot you have chosen. With one hand, hold onto the felt and the LED. With the other hand, place the tip of the needle **behind** the felt and push it through so that it comes out through the *negative* hole of the LED. 
-[picture: needle going through front and maybe back]![](/assets/all aapp.png)
+![](/assets/needle_through_LED_100_179_650.png)
 
 5. Pull the needle and thread all the way through at the front, pinching the eye of the needle so the short end of the thread doesn't fall out. You want to keep pulling until only the knot remains at the back.
  * If your thread falls out of the needle, it's ok, you can re-thread it. When pulling the thread through the felt, try holding the needle by the eye and pinching the thread tightly there to keep it from falling out.
