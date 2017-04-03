@@ -8,7 +8,7 @@
 
 5. Just like you did for the LED, attach the battery holder by sewing five stitches through the *negative* hole. Remember to make sure they are good and tight!
 
-6. To finish, sew about three tiny stitches right next to where you attached the battery holder, all the same place. This will secure the end of the thread to stop your work unravelling.
+6. To finish, sew about three tiny stitches right next to where you attached the battery holder, all the same place. This will secure the end of the thread to stop your work unravelling. ![](/assets/tinny_beside_triple_100_650.png)
 
 7. Cut the thread so that only a tiny bit is hanging out of the felt. 
 
