@@ -8,14 +8,14 @@
 4. On the LED, the longer pin is *positive* or '+' and the shorter pin is *negative* or '-'. You can also identify '+' and '-' on an LED by looking closely at the bulb: the side with the flat edge is *negative*.
  * A sewable LED is built onto a tiny *printed circuit board* so it has holes instead of pins. The holes are marked with '+' and '-' signs. ![](/assets/LEDs_pos_neg_100_650.png)
 
-5. Separate the LED and the battery and get two pieces of conductive thread and some tape (if you have crocodile clips you can pop the battery into a battery holder and use these instead).
+5. Separate the LED and the battery and pop the battery into a battery holder. Team up with the person next to you and get two pieces of conductive thread.
 
-6. Tape one end of the first thread to the *positive* side of the battery (the side with the '+') and tape the other end to the *positive* pin of the LED. ![](/assets/circuit_pos_150_191_650.png) 
+6. Hold one end of the first thread to the *positive* side of the battery (the side with the '+') and the other end to the *positive* pin of the LED. If you have crocodile clips you can use these to hold the parts together. Tape can be used too, although this will fray the thread a lot. ![](/assets/circuit_pos_150_191_650.png) 
 
-7. Now take the second thread. Tape one end to the *negative* side of the battery and the other end to the *negative* pin of the LED. ![](/assets/circuit_complete_107_300_650.png) 
+7. Now take the second thread. Hold one end to the *negative* side of the battery and the other end to the *negative* pin of the LED. ![](/assets/circuit_complete_107_300_650.png) 
 
 8. Make sure the two threads are not touching or crossing over at any point. If they do this will cause a *short* in your circuit and it will not work properly.
-> Electricity flows out of the *positive* side of the battery, through the thread, through the LED and through the second thread back into the battery, around and around. When you have a *short circuit*, the electricity tries to go the wrong way and that's why it stops working.
+ * Electricity flows out of the *positive* side of the battery, all the way around the circuit and back into the battery at the *negative* side. When you have a *short circuit*, the electricity tries to go the wrong way and that's why it stops working.
    
 9. Now we have a circuit that we can use to make a light-up badge!
 
