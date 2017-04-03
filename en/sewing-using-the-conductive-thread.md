@@ -13,7 +13,7 @@
  * If your thread falls out of the needle, it's ok, you can re-thread it. When pulling the thread through the felt, try holding the needle by the eye and pinching the thread tightly there to keep it from falling out.![](/assets/pull_thread_through_100_239_650.png)
 
 6. Now, place the tip of the needle **right beside** the *negative* hole of the LED (the one it just came through), but **not inside** it. Like this:
-[picture] ![](/assets/all aapp.png)
+[picture] ![](/assets/needle_next_to_LED_100_180_650.png)
 
 7. Push the needle through the felt so it comes out the back. Grab the needle behind the felt and pull it all the way through, just like you did at the front. You've just sewn your first stitch! It should look something like this:
 [picture: one stitch done on LED] ![](/assets/all aapp.png)
