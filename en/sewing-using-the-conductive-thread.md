@@ -10,8 +10,7 @@
 ![](/assets/needle_through_LED_100_179_650.png)
 
 5. Pull the needle and thread all the way through at the front, pinching the eye of the needle so the short end of the thread doesn't fall out. You want to keep pulling until only the knot remains at the back.
- * If your thread falls out of the needle, it's ok, you can re-thread it. When pulling the thread through the felt, try holding the needle by the eye and pinching the thread tightly there to keep it from falling out.
-[picture: thread being pulled through] ![](/assets/all aapp.png)
+ * If your thread falls out of the needle, it's ok, you can re-thread it. When pulling the thread through the felt, try holding the needle by the eye and pinching the thread tightly there to keep it from falling out.![](/assets/pull_thread_through_100_239_650.png)
 
 6. Now, place the tip of the needle **right beside** the *negative* hole of the LED (the one it just came through), but **not inside** it. Like this:
 [picture] ![](/assets/all aapp.png)
