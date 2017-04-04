@@ -3,7 +3,6 @@
 3. I am going to make a felt badge or patch that lights up
 
  ![](/assets/badge_lit_150_110_650.png)
-[picture: badge/patch]
 4. The badge is designed so that lots of them can joined be together to make a glowing patchwork. -- MAYBE CHANGING THIS --
 5. You can use this kind of technology to decorate clothes, bags, hats... The possibilities are unlimited!
 
