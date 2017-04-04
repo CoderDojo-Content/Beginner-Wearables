@@ -25,4 +25,3 @@
 
  ![](/assets/badge_back_150_118_650.png) 
 11. If you like, you could cover the battery holder with an extra piece of felt too. You can also decorate your badge with different coloured felt or thread. You design your own fashion!
-
