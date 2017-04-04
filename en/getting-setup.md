@@ -14,4 +14,5 @@
  * Scissors
  * Round-nosed pliers (required for sewing regular LEDs)
  * Tape
+ * Safety pin or any kind of badge pin
  
