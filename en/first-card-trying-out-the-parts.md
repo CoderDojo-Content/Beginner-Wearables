@@ -17,4 +17,4 @@
 8. Make sure the two threads are not touching or crossing over at any point. If they do this will cause a *short* in your circuit and it will not work properly.
  * Electricity flows out of the *positive* side of the battery, all the way around the circuit and back into the battery at the *negative* side. When you have a *short circuit*, the electricity tries to go the wrong way and that's why it stops working.
    
-9. Now we have a circuit that we can use to make a light-up badge!
+9. Now you have a circuit that you can use to make a light-up badge!
