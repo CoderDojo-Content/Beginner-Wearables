@@ -8,4 +8,4 @@
     * Notice there is no positive or negative side on a switch
 
  ![](/assets/switch_on_170_249_650.png)
-5.  If you don't have a switch, you can make one very easily. Take the two loose ends of thread in your circuit and hold them together to make your LED light up. When you separate them it turns off again. You have just created a simple switch! This is how all switches work.![](/assets/switch_diy_on_off_170_650.png)
+5.  If you don't have a switch, you can make one very easily. Take the two loose ends of thread in your circuit and hold them together to make your LED light up. When you separate them it turns off again. You have just created a simple switch! This is how all switches work.![](/assets/switch_diy_off_on_170_650.png)
