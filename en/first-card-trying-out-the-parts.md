@@ -8,11 +8,11 @@
 4. On the LED, the longer pin is *positive* or '+' and the shorter pin is *negative* or '-'. You can also identify '+' and '-' on an LED by looking closely at the bulb: the side with the flat edge is *negative*.
  * A sewable LED is built onto a tiny *printed circuit board* so it has holes instead of pins. The holes are marked with '+' and '-' signs. ![](/assets/LEDs_pos_neg_100_650.png)
 
-5. Separate the LED and the battery and pop the battery into a battery holder. Team up with the person next to you and get two pieces of conductive thread.
+5. Separate the LED and the battery and pop the battery into a battery holder, with the + facing up (the holder will have a mark to show you the + side too). Team up with the person next to you and get two pieces of conductive thread.
 
-6. Hold one end of the first thread to the *positive* side of the battery (the side with the '+') and the other end to the *positive* pin of the LED. You can use tape if you need to, although this will fray the thread a lot. If you have crocodile clips you can use these instead of thread, as I have. ![](/assets/circuit_crocs_pos_150_191_650.png) 
+6. Hold one end of the first thread to the *positive* hole of the battery holder (the side with the '+') and the other end to the *positive* pin of the LED. You can use tape if you need to, although this will fray the thread a lot. If you have crocodile clips you can use these instead of thread, as I have. ![](/assets/circuit_crocs_pos_150_191_650.png) 
 
-7. Now take the second thread. Hold one end to the *negative* side of the battery and the other end to the *negative* pin of the LED. ![](/assets/circuit_crocs_complete_100_213_650.png) 
+7. Now take the second thread. Hold one end to the *negative* hole of the battery holder and the other end to the *negative* pin of the LED. ![](/assets/circuit_crocs_complete_100_213_650.png) 
 
 8. Make sure the two threads are not touching or crossing over at any point. If they do this will cause a *short* in your circuit and it will not work properly.
  * Electricity flows out of the *positive* side of the battery, all the way around the circuit and back into the battery at the *negative* side. When you have a *short circuit*, the electricity tries to go the wrong way and that's why it stops working.

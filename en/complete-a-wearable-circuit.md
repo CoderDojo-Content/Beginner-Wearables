@@ -19,7 +19,7 @@
  * Secure the thread with 3 tiny stitches all in the same place before cutting it short.
 ![](/assets/sewing_complete_double_100_650.png)
  
-9. Congratulations! You have sewn a complete wearable circuit! Insert a battery into the battery holder, with the + facing up (the holder will have a mark to show you the + side too) and watch your LED light up :D
+9. Congratulations! You have sewn a complete wearable circuit! Insert a battery into the battery holder and watch your LED light up :D
 
 10. If you are attaching a pin to your badge, it is a good idea to put it onto a separate piece of felt that you attach to the back of your badge. This ensures the pin does not touch any part of your circuit - since the pin is metal that would cause a _short circuit_! 
  * Use ordinary ordinary embroidery thread or any plain thread for the extra sewing - or you could use glue or tape instead of sewing. 
