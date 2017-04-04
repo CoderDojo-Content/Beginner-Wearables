@@ -15,6 +15,6 @@
 7. Now take the second thread. Hold one end to the *negative* hole of the battery holder and the other end to the *negative* pin of the LED. ![](/assets/circuit_crocs_complete_100_213_650.png) 
 
 8. Make sure the two threads are not touching or crossing over at any point. If they do this will cause a *short* in your circuit and it will not work properly.
- * Electricity flows out of the *positive* side of the battery, all the way around the circuit and back into the battery at the *negative* side. When you have a *short circuit*, the electricity tries to go the wrong way and that's why it stops working.
+ * When you have a *short circuit*, the electricity tries to go the wrong way through the circuit and that's why it stops working.
    
 9. Now you have a circuit and are ready to make a light-up badge!
