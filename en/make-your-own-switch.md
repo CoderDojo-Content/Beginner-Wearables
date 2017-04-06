@@ -1,4 +1,4 @@
-1. What if you want to turn your circuit off? To do this you need a break somewhere in the connections. A _switch_ is a component that allows you to turn a circuit off and on easily. There are lots of different types of switches - buttons, sliders, even magnetic or tilting ones. ![](/assets/switches_100_384_650.png)
+1. What if you want to turn your circuit off? To do this you need a break somewhere in the connections to stop the electrical flow. A **switch** is a component that allows you to turn a circuit off and on easily. There are lots of different types of switches - buttons, sliders, even magnetic or tilting ones. ![](/assets/switches_100_384_650.png)
 
 3. On your circuit, detach the thread from the _positive_ hole of the battery holder. Take a new piece of thread and put one end of the new piece through the hole where the other thread was. You might need to team up with a third person here, for some extra hands! Otherwise you can always use tape, or use crocodile clips instead of thread.
 
