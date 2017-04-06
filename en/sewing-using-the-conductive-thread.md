@@ -18,5 +18,4 @@
 8. Repeat steps 6. and 7. five more times. Be sure to pull the thread tight each time. This will create a good connection and keep the LED secured tightly to the felt.
 
 9. You have now learned how to attach wearable components to your project. Almost there!
-
-> Practice makes perfect! If you have never sewn before it can be quite tricky in the beginning. Don't worry, you'll get the hang of it :)
+ * Practice makes perfect! If you have never sewn before it can be quite tricky in the beginning. Don't worry, you'll get the hang of it :)
