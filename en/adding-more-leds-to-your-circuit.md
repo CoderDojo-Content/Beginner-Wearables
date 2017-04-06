@@ -6,7 +6,7 @@
  * You still must keep the positive and negative threads separate from each other!
 
  In the below example, I have used the same two long pieces of thread for both LEDs. You could also use two new pieces of thread, connecting the new LED to the first one just like you would connect it to a battery.![](/assets/more_leds_extended_120_225_650.png)
- * This method is great for saving thread, and also keeps the circuit simpler than the one in step 2 as you have less threads to keep separated from each other.
+ * This method is great for saving thread, and also keeps the circuit simpler than the one in step 2.
  
 4. I am going to extend my badge circuit with one LED, and then extend it further so that LEDs on separate pieces of felt can be joined onto it!
 
