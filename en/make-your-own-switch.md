@@ -2,7 +2,7 @@
 
 3. On your circuit, detach the thread from the _positive_ hole of the battery holder. Take a new piece of thread and hold one end of the new piece onto the battery holder where the other thread was. You might need to team up with a third person here, for some extra hands! Otherwise you can always use tape, or use crocodile clips instead of thread.
 
-4. If you have a ready made switch, hold the other end of the new thread to one end of it. Then take the thread you removed from the battery holder and hold it to the other end of the switch. Now you can use the switch to turn the LED off and on.
+4. If you have a ready made switch, hold the other end of the new thread to one end of it. Then take the thread you removed from the battery holder (it should still be attached to the LED) and hold it to the other end of the switch. Now you can use the switch to turn the LED off and on.
     * Notice there is no positive or negative side on a switch
 
  ![](/assets/switch_on_thread_120_153_650.png)
