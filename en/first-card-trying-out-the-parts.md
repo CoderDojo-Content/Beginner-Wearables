@@ -8,9 +8,9 @@
 
 5. Separate the LED and the battery and pop the battery into a battery holder, with the + facing up (the holder will have a mark to show you the + side too). Team up with the person next to you and get two pieces of conductive thread.
 
-6. Hold one end of the first thread to the '+' hole of the battery holder and the other end to the *positive* pin of the LED. You can use tape if you need to, although this will fray the thread a lot. If you have crocodile clips you can use these instead of thread. ![](/assets/circuit_thread_pos_100_191_650.png) 
+6. Put one end of the first thread through the '+' hole of the battery holder, making sure it touches the metal, and hold the other end to the *positive* pin of the LED. You can use tape if you need to, although this will fray the thread a lot. If you have crocodile clips you can use these instead of thread. ![](/assets/circuit_thread_pos_100_191_650.png) 
 
-7. Now take the second thread. Hold one end to the '-' hole of the battery holder and the other end to the *negative* pin of the LED. ![](/assets/circuit_thread_complete_150_199_650.png) 
+7. Now take the second thread. Put one end through the '-' hole of the battery holder and hold the other end to the *negative* pin of the LED. ![](/assets/circuit_thread_complete_150_199_650.png) 
 
 8. Make sure the two threads are not touching or crossing over at any point. If they do this will cause a *short* in your circuit and it will not work properly.
  * When you have a *short circuit*, the electricity tries to go the wrong way through the circuit and that's why it stops working.
