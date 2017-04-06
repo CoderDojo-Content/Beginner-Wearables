@@ -9,7 +9,7 @@
 
 5. Once you have one blob for the negative, and one blob for the positive, the new badge is ready. Now you just need to extend the circuit on the main badge (the one with the battery).
 
-6. Decide where you want to the badges to be joined. Mark two spots on the first badge where the positive and negative "blobs" touch it. You will be sewing matching blobs here for them to connect to. You can put the new badge to one side for the next bit.
+6. Decide where you want to the badges to join together. Mark two spots on the first badge where the positive and negative "blobs" touch it. You will be sewing matching blobs here for them to connect to. You can put the new badge to one side for the next bit.
 
 7. Taking new thread, sew a bunch of stitches at the spot you marked for the *negative* blob.
  
