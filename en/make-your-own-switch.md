@@ -17,4 +17,4 @@
 7. I've put tape near the end of each thread so you can more easily see where the break is in the circuit. This is my switch in action.
 ![](/assets/switch_diy_tape_abc_120_650.png)
 
-9. In a ready-made switch, the part where the connection gets broken (and reconnected) is usually hidden inside so you can't see it. Now you know what is really happening when you switch it on or off! You can use a switch in your wearables project to give you control over the circuit.
+9. In a ready-made switch, the part where the connection gets broken (and reconnected) is usually hidden inside so you can't see it. Now you know what is really happening when you switch it on or off! The different types of switches work by breaking the circuit in different ways. You can use a switch in your wearables project to give you control over the circuit.
