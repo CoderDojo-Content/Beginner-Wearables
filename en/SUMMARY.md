@@ -7,5 +7,5 @@
 * [Sewing on components](sewing-using-the-conductive-thread.md)
 * [Complete a wearable circuit](complete-a-wearable-circuit.md)
 * [Adding more LEDs](adding-more-leds-to-your-circuit.md)
-* Make detachable parts
+* [Make detachable parts](make-detachable-parts.md)
 
