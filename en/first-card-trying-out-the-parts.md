@@ -8,6 +8,11 @@
 
 5. Separate the LED and the battery and pop the battery into a battery holder, with the + facing up (the holder will have a mark to show you the + side too). Team up with the person next to you and get two pieces of conductive thread.
 
+6. Conductive thread can be used in circuits because it is made with metal that electricity can flow through. The best part is that it's also thread that you can sew. This means you can build a circuit right into a piece of fabric (for example, clothing) without any hard wires or cables - all you need is a sewing needle and a pair of scissors!
+
+
+
+
 6. Put one end of the first thread through the '+' hole of the battery holder, making sure it touches the metal, and hold the other end to the *positive* pin of the LED. You can use tape if you need to, although this will fray the thread a lot. If you have crocodile clips you can use these instead of thread. ![](/assets/circuit_thread_pos_100_191_650.png) 
 
 7. Now take the second thread. Put one end through the '-' hole of the battery holder and hold the other end to the *negative* pin of the LED. ![](/assets/circuit_thread_complete_150_199_650.png) 
