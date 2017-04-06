@@ -15,4 +15,4 @@
 
 9. In a ready-made switch, the part where the connection gets broken (and reconnected) is usually hidden inside so you can't see it. Now you know what is really happening when you switch it on or off! 
 
-10. All the different types of switches do the same thing, they just break the circuit in different ways. You can use a switch in your wearables project to give you control over when the circuit is on or off.
+10. Different types of switches work by breaking the circuit in different ways. You can use a switch in your wearables project to give you control over when the circuit is on or off.
