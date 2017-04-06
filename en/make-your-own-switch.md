@@ -1,4 +1,4 @@
-1. What if you want to turn your circuit off? To do this you need a break somewhere in the connections. A _switch_ is a component that allows you to turn a circuit off and on easily. There are lots of different types of switches - buttons, sliders, even magnetic or tilting ones. You are going to add one to your circuit. ![](/assets/switches_100_384_650.png)
+1. What if you want to turn your circuit off? To do this you need a break somewhere in the connections. A _switch_ is a component that allows you to turn a circuit off and on easily. There are lots of different types of switches - buttons, sliders, even magnetic or tilting ones. ![](/assets/switches_100_384_650.png)
 
 3. On your circuit, detach the thread from the _positive_ hole of the battery holder. Take a new piece of thread and hold one end of the new piece onto the battery holder where the other thread was. You might need to team up with a third person here, for some extra hands! Otherwise you can always use tape, or use crocodile clips instead of thread.
 
@@ -9,9 +9,8 @@
 6. How does it work? As you've seen, electricity flows all the way around the circuit to make the LED light up. For the electricity to flow, there needs to be a connection between each component in the circuit. 
  * When you separate the two threads, you have broken the connection between them and the electricity can no longer flow.
  * When you make the threads touch, they are connected and the electricity is able to flow once more. 
- * Electricity always "wants" to flow, so it keeps trying. That is why the circuit works again straight away when you reconnect the threads. 
 
-7. I've put tape near the end of each thread so you can more easily see where the break is in the circuit. This is my switch in action.
+7. I've put tape near the end of each thread so you can more easily see where the break is in the circuit. This will be my switch. Here it is in action.
 ![](/assets/switch_diy_tape_abc_120_650.png)
 
 9. In a ready-made switch, the part where the connection gets broken (and reconnected) is usually hidden inside so you can't see it. Now you know what is really happening when you switch it on or off! The different types of switches work by breaking the circuit in different ways. You can use a switch in your wearables project to give you control over the circuit.
