@@ -12,14 +12,14 @@
 
 7. You now have half of your circuit sewn. To complete the circuit, you need to connect the **+** hole on the LED with the **+** hole on the battery holder. Use the same method you already used to connect the **negatives**. I am not including a switch in this circuit, but you could if you wanted, using a third piece of thread as before. Some battery holders also have a built-in switch.
  * Secure the LED with 3 stitches through the **+** hole
- * Sew a **running stitch** all the way to one **+** hole of the battery holder. **Important!** Make sure the path for your **positive** thread *does not cross or touch* the *negative* thread anywhere, or any edges of the battery holder. Remember, this would cause a *short circuit* (a bad thing)!
- * Sew 3 stitches through the *positive* hole of the battery holder
+ * Sew a **running stitch** all the way to one **+** hole of the battery holder. *Important!* Make sure the path for your **positive** thread *does not cross or touch* the **negative** thread anywhere, or any edges of the battery holder. Remember, this would cause a **short circuit** (a bad thing)!
+ * Sew 3 stitches through the **positive** hole of the battery holder
  * Secure the thread with 3 tiny stitches all in the same place before cutting it short.
 ![](/assets/sewing_complete_double_100_650.png)
  
 8. Congratulations! You have sewn a complete wearable circuit! Insert a battery into the battery holder and watch your LED light up :D
 
-9. If you are attaching a pin to your badge, it is a good idea to put it onto a separate piece of felt that you attach to the back of your badge. This ensures the pin does not touch any part of your circuit - since the pin is metal that would cause a _short circuit_! Use ordinary ordinary thread for the extra sewing - or you could use glue or tape instead. 
+9. If you are attaching a pin to your badge, it is a good idea to put it onto a separate piece of felt that you attach to the back of your badge. This ensures the pin does not touch any part of your circuit - since the pin is metal that would cause a *short circuit*! Use ordinary ordinary thread for the extra sewing - or you could use glue or tape instead. 
 
  ![](/assets/badge_back_150_118_650.png) 
 10. If you like, you could cover the battery holder with an extra piece of felt too. You can also decorate your badge with different coloured felt or thread. You design your own fashion!
