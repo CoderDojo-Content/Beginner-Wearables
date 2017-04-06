@@ -6,16 +6,16 @@
 
 4. Next, put your battery holder into place on the felt.
 
-5. Just like you did for the LED, attach the battery holder by sewing five stitches through the *negative* hole. Remember to make sure they are good and tight!
+5. Just like you did for the LED, attach the battery holder by sewing three stitches through the *negative* hole. Remember to make sure they are good and tight!
 
 6. To finish, sew about three tiny stitches right next to where you attached the battery holder, all the same place. This will secure the end of the thread to stop your work unravelling.
 
 7. Cut the thread so that only a tiny bit is hanging out of the felt. ![](/assets/tiny_stitches_triple_80_650.png)
 
 8. You now have half of your circuit sewn. To complete the circuit, you need to connect the *positive* hole on the LED with the *positive* hole on the battery holder. Use the same method you already used to connect the *negatives*. I am not including a switch in this circuit, but you could if you wanted, using a third piece of thread as before. Some battery holders also have a built-in switch.
- * Secure the LED with 5 stitches through the *positive* hole
+ * Secure the LED with three stitches through the *positive* hole
  * Sew a *running stitch* all the way to one *positive* hole of the battery holder. **Important!** Make sure the path for your *positive* thread **does not cross or touch** the *negative* thread anywhere, or any edges of the battery holder. Remember, this would cause a *short circuit* (a bad thing)!
- * Sew 5 stitches through the *positive* hole of the battery holder
+ * Sew three stitches through the *positive* hole of the battery holder
  * Secure the thread with 3 tiny stitches all in the same place before cutting it short.
 ![](/assets/sewing_complete_double_100_650.png)
  
