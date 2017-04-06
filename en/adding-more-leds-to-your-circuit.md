@@ -12,8 +12,6 @@ TODO
  * This gives each LED its own separate circuit with the same battery
  * You have to make sure all the threads are kept separate and don't cross over or touch, just like before.
 3. If you want to place the LEDs close to one another, for example in a line, then another option is to **extend** your existing circuit. [TODO: DESCRIBE]![](/assets/tiny_stitches_triple_80_650.png)
-
-
  * This method is also great for saving thread, and keeps the circuit simpler as you have less threads to keep separated from each other.
  
 4. I am going to extend my badge circuit with one LED, and then extend it further so that LEDs on separate pieces of felt can be joined onto it!
