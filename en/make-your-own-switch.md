@@ -1,6 +1,4 @@
-1. What if you want to turn your circuit off? To do this you need a break somewhere in the connections. A _switch_ is a component that allows you to turn a circuit off and on easily.
-
-2. There are lots of different types of switches - buttons, sliders, even magnetic or tilting ones. You can also make your own switch.![](/assets/switches_100_384_650.png)
+1. What if you want to turn your circuit off? To do this you need a break somewhere in the connections. A _switch_ is a component that allows you to turn a circuit off and on easily. There are lots of different types of switches - buttons, sliders, even magnetic or tilting ones. You are going to add one to your circuit. ![](/assets/switches_100_384_650.png)
 
 3. On your circuit, separate the _positive_ hole of the battery holder from the thread. Take a new piece of thread and hold one end of the new piece onto the battery holder where the other thread was. You might need to team up with a third person here, for some extra hands! Otherwise you can always use tape, or use crocodile clips instead of thread.
 
@@ -16,13 +14,7 @@
  * When you make the threads touch, they are connected and the electricity is able to flow once more. 
  * Electricity always "wants" to flow, so it keeps trying. That is why the circuit works again straight away when you reconnect the threads. 
 
-7. I've put tape near the end of each thread so you can more easily see where the break is in the circuit. This is my switch. ![](/assets/switch_diy_tape_a_120_650.png)
+7. I've put tape near the end of each thread so you can more easily see where the break is in the circuit. This is my switch in action.
+![](/assets/switch_diy_tape_abc_120_650.png)
 
-
-8. Here you can see the switch in action.![](/assets/switch_diy_tape_bc_120_650.png)
-
-9. In a ready-made switch, the part where the connection gets broken (and reconnected) is usually hidden inside so you can't see it. Now you know what is really happening when you switch it on or off!
-
-10. So a switch is something that breaks connections in a circuit. You can use one in your project to give you control over the circuit and allow you to turn it off.
-
-
+9. In a ready-made switch, the part where the connection gets broken (and reconnected) is usually hidden inside so you can't see it. Now you know what is really happening when you switch it on or off! You can use a switch in your wearables project to give you control over the circuit.
