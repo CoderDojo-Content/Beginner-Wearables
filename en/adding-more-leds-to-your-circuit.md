@@ -10,18 +10,15 @@
  
 4. I am going to extend the circuit on my badge so that LEDs on separate pieces of felt can be joined onto it!
 
-5. Taking new thread, secure one end to the *negative* hole on the LED on your badge as before, and sew a *running stitch* all the way to the edge of the felt, or near the edge. 
+5. Take an LED and decide where on your badge you want to put it. You will sew it on and connect it to either the battery holder, or the LED you already attached - whichever is closer to it. I am going to connect it to the LED.
 
-6. Now sew several medium sized stitches next to each other or in a criss-cross. You want to make it look like a "blob" of conductive thread on the felt. Then do 3 tiny stitches in one spot to finish before cutting the thread short.
+6. Holding the LED in place, use a needle and a new piece of conductive thread to secure the *negative* hole of the LED like you did the first time.
 
-7. Then with another piece of thread, repeat steps 5 and 6, this time coming from the *positive* hole of the LED. When you are done it should look something like this:![](/assets/badge_extension_front_back_120_650.png)
+7. The next step is the *running stitch*. This time the stitches will go in a line towards the *negative* hole of the other LED, instead of to the battery holder. Once you reach the LED, do 3 stitches through the *negative* hole and 3 tiny stitches to finish, exactly as you have done before.
 
-8. Get another felt badge or piece of felt. I have made a small flower. You will attach an LED to this piece, but not a battery holder.
+8. Now connect the *positive* holes of the two LEDs, using the same method.
 
-9. Hold the felt beside the two "blobs" of thread on the first badge and mark two spots on the new badge
-
-10. Instead of connecting each thread to a battery holder, do the *running stitches* to the edge of the badge, just like in step 5 and 6.
-
+9. Ta-daa! Your badge has two LEDs on it!
  
 ![](/assets/badge_extended_lit_150_99_650.png)
 
