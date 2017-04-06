@@ -10,5 +10,9 @@
  
 4. I am going to extend the circuit on my badge so that LEDs on separate pieces of felt can be joined onto it!
 
-5. To create the separate 
-5. First, mark the spots where the positive and negative ends of the next LED should go. Taking new thread, secure one end to the *negative* hole on the LED on your badge
+5. Taking new thread, secure one end to the *negative* hole on the LED on your badge as before, and sew a *running stitch* all the way to the edge of the felt, or near the edge. 
+
+6. Now sew several medium sized stitches next to each other or in a criss-cross. You want to make it look like a "blob" of conductive thread on the felt. Then do 3 tiny stitches in one spot to finish before cutting the thread short.
+
+7.Then with another piece of thread, repeat steps 5 and 6, this time coming from the *positive* hole of the LED. When you are done it should look something like this:![](/assets/badge_extension_front_back_120_650.png)
+
