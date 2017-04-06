@@ -2,10 +2,8 @@
 
 3. On your circuit, detach the thread from the _positive_ hole of the battery holder. Take a new piece of thread and hold one end of the new piece onto the battery holder where the other thread was. You might need to team up with a third person here, for some extra hands! Otherwise you can always use tape, or use crocodile clips instead of thread.
 
-4. If you have a ready made switch, hold the other end of the new thread to one end of it. Then take the thread you removed from the battery holder (it should still be attached to the LED) and hold it to the other end of the switch. Now you can use the switch to turn the LED off and on.
-    * Notice there is no positive or negative side on a switch
-
- ![](/assets/switch_on_thread_120_153_650.png)
+4. If you have a ready made switch, hold the other end of the new thread to one end of it. Then take the thread you removed from the battery holder (it should still be attached to the LED) and hold it to the other end of the switch. Now you can use the switch to turn the LED off and on.![](/assets/switch_on_thread_120_153_650.png)
+ * Notice there is no positive or negative side on a switch
 5.  If you don't have a switch, you can make one very easily. Take the two loose ends of thread in your circuit and hold them together to make your LED light up. When you separate them it turns off again. You have just created a simple switch! ![](/assets/switch_diy_thread_abc_120_650.png)
 
 6. How does it work? As you've seen, electricity flows all the way around the circuit to make the LED light up. For the electricity to flow, there needs to be a connection between each component in the circuit. 
