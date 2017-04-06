@@ -10,4 +10,5 @@
  
 4. I am going to extend the circuit on my badge so that LEDs on separate pieces of felt can be joined onto it!
 
-5. 
+5. To create the separate 
+5. First, mark the spots where the positive and negative ends of the next LED should go. Taking new thread, secure one end to the *negative* hole on the LED on your badge
