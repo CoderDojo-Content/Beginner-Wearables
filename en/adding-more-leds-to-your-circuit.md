@@ -1,12 +1,3 @@
-TODO
-
-[ The "you're finished your project" has to come before this probably... does it make sense to have a whole extra card afterwards though? ]
-
-- show how to make circuit with more than one LED (parallel/train track model)
-
-- picture or diagram showing example of alternative badge design allowing many separate badges to be joined together to a single battery on the one circuit (same parallel setup)
-
-
 1. Adding more LEDs to a circuit is easy! The best way to connect them is in *parallel*. This is where each LED is connected to the battery by thread. You can do this in two ways.
 2. One option is to create a whole new "loop" in your circuit for each LED that you want to add. In other words, repeat the process you followed to attach one LED to the battery holder on your badge, using the same battery holder. You can connect additional LEDs to the same holes you already used on the battery holder, or to the other two holes.![](/assets/tiny_stitches_triple_80_650.png)
  * This gives each LED its own separate circuit with the same battery
