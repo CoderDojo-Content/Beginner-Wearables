@@ -1,5 +1,6 @@
-1. Let's create our first circuit! Take an LED and connect it to a battery by holding both pins to the battery, one on either side. Notice that one of the pins of the LED is longer than the other one. The longer one should be connected to the side of the battery marked with a plus sign '+'. Watch your LED light up! ![](/assets/led_battery_140_291_650.png) 
- * Try flipping the battery over so the pins are connected the other way around. Does it still work?
+1. Let's create your first circuit! Take a regular LED (one with two pins rather than a sewable one) and connect it to a battery by holding both pins to the battery, one on either side. Notice that one of the pins of the LED is longer than the other one. The longer one should be connected to the side of the battery marked with a plus sign '+'. Watch your LED light up!
+ * Did it work? If not, check that that the pins are the right way round. ![](/assets/led_battery_140_291_650.png) 
+ * Try flipping the battery over so the pins are connected the wrong way around, with the shorter one on the '+' side of the battery. Does it still work?
  
 2. In every circuit there is a *positive*, '+' and a *negative*, '-' direction. For electricity to flow you need to match up the '+' ends and match up the '-' ends of your components. This is why the LED doesn't light up when you flip the battery around.
 
