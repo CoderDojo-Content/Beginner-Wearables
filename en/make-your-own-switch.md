@@ -8,7 +8,6 @@
  ![](/assets/switch_on_thread_120_153_650.png)
 5.  If you don't have a switch, you can make one very easily. Take the two loose ends of thread in your circuit and hold them together to make your LED light up. When you separate them it turns off again. You have just created a simple switch! ![](/assets/switch_diy_thread_abc_120_650.png)
 
-
 6. How does it work? As you've seen, electricity flows all the way around the circuit to make the LED light up. For the electricity to flow, there needs to be a connection between each component in the circuit. 
  * When you separate the two threads, you have broken the connection between them and the electricity can no longer flow.
  * When you make the threads touch, they are connected and the electricity is able to flow once more. 
