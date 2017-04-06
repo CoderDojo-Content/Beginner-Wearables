@@ -9,3 +9,11 @@
 
  ![](/assets/switch_on_thread_120_153_650.png)
 5.  If you don't have a switch, you can make one very easily. Take the two loose ends of thread in your circuit and hold them together to make your LED light up. When you separate them it turns off again. You have just created a simple switch! This is how all switches work.![](/assets/switch_diy_thread_abc_120_650.png)
+
+
+6. I've put tape near the end of each thread so you can more easily see where the "switch" is in the circuit.![](/assets/switch_diy_tape_a_120_650.png)
+
+
+7. Here you can see the switch in action.![](/assets/switch_diy_tape_bc_120_650.png)
+
+
