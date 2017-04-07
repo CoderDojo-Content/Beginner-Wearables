@@ -12,7 +12,7 @@
  * Sewing needle, e.g. embroidery needle
  * Regular embroidery thread (or any kind of thread) (optional)
  * Scissors
- * Round-nosed pliers (required for sewing regular LEDs)
+ * Pliers (optional, preferably round-nosed)
  * Tape - electrical or masking tape, or any other removable tape
  * Safety pin or any kind of badge pin
  
