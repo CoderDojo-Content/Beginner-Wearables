@@ -7,17 +7,17 @@
  
 4. Deciding which option to use depends on where you are putting the new LED. 
  * The best place to connect it is usually whichever is closer.
- * You also need to make sure all the threads are kept separate and don't cross over or touch, so it is a good idea to look at where the **+**'s and **-**'s are when deciding.
+ * You also need to make sure all the different threads are kept separate and don't cross over or touch, so it is a good idea to look at where the **+**'s and **-**'s are when deciding.
 
 5. Take an LED and decide where on your badge you want to put it. You will sew it on and connect it to either the battery holder or the LED you already attached - whichever is easier.
 
 6. Pop the battery out of the battery holder for now. When working on a circuit, it is important to always make sure is is not **live** by switching it off or taking out the battery.
 
-7. Holding the LED in place, use a needle and a new piece of conductive thread to secure the *negative* hole of the LED like you did the first time.
+7. Holding the LED in place, use a needle and a new piece of conductive thread to secure the **-** hole of the LED like you did the first time.
 
-8. The next step is the *running stitch*. If you are connecting the LED to the other LED, then this time the stitches will go in a line towards the *negative* hole of the other LED, instead of to the battery holder. Once you reach the correct hole, do 3 stitches through the it and 3 tiny stitches to finish, exactly as you have done before.
+8. The next step is the **running stitch**. If you are connecting the LED to the other LED, then this time the stitches will go in a line towards the *negative* hole of the other LED, instead of to the battery holder. Once you reach the correct hole, do 3 stitches through the it and 3 tiny stitches to finish, exactly as you have done before.
 
-9. Now connect the *positive* hole of the new LED, using the same method.
+9. Now connect the **+** hole of the new LED, using the same method.
 
 10. Ta-daa! Your badge has two LEDs on it!
  
