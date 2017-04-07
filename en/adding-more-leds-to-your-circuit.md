@@ -6,18 +6,21 @@
  * You have to make sure all the threads are kept separate and don't cross over or touch, just like before.
 3. Another option is to attach the new LED to the LED already in your circuit, instead of to the battery. You match up the **+** to the **+** and the **-** to the **-** as you would if you were connecting it to a battery. Make sure the positive and negative threads don't cross or touch. In the below example, the same two long pieces of thread are used for both LEDs. You could also use separate pieces of thread for each LED.![](/assets/more_leds_extended_120_225_650.png)
  
-4. 
- * This method is great for saving thread, and also keeps the circuit simpler than the one in step 2.
- 
-5. Take an LED and decide where on your badge you want to put it. You will sew it on and connect it to either the battery holder, or the LED you already attached - whichever is closer to it. I am going to connect it to the LED.
+4. Deciding which option to use depends on where you are putting the new LED. 
+ * The best place to connect it is usually whichever is closer.
+ * You also need to make sure all the threads are kept separate and don't cross over or touch, so it is a good idea to look at where the **+**'s and **-**'s are when deciding.
 
-6. Holding the LED in place, use a needle and a new piece of conductive thread to secure the *negative* hole of the LED like you did the first time.
+5. Take an LED and decide where on your badge you want to put it. You will sew it on and connect it to either the battery holder or the LED you already attached - whichever is easier.
 
-7. The next step is the *running stitch*. This time the stitches will go in a line towards the *negative* hole of the other LED, instead of to the battery holder. Once you reach the LED, do 3 stitches through the *negative* hole and 3 tiny stitches to finish, exactly as you have done before.
+6. Pop the battery out of the battery holder for now. When working on a circuit, it is important to always make sure is is not **live** by switching it off or taking out the battery.
 
-8. Now connect the *positive* holes of the two LEDs, using the same method.
+7. Holding the LED in place, use a needle and a new piece of conductive thread to secure the *negative* hole of the LED like you did the first time.
 
-9. Ta-daa! Your badge has two LEDs on it!
+8. The next step is the *running stitch*. If you are connecting the LED to the other LED, then this time the stitches will go in a line towards the *negative* hole of the other LED, instead of to the battery holder. Once you reach the correct hole, do 3 stitches through the it and 3 tiny stitches to finish, exactly as you have done before.
+
+9. Now connect the *positive* hole of the new LED, using the same method.
+
+10. Ta-daa! Your badge has two LEDs on it!
  
 ![](/assets/badge_extended_lit_150_99_650.png)
 
