@@ -11,7 +11,7 @@
 5. Once you have one blob for the **negative**, and one blob for the **positive**, the new badge is ready. If you want, you can repeat these steps so that you extend the circuit to another pair of blobs at the opposite edge of the new badge, like this:
 ![](/assets/new_badge_front_back_120_650.png)
 
-6. Now you just need to extend the circuit on the main badge (the one with the battery). Remember to remove the battery from the holder before first.
+6. Now you just need to extend the circuit on the main badge (the one with the battery). Remember to remove the battery from the holder first.
  
 7. Decide where you want to the badges to join together. You will be sewing stitches from the LED on the main badge to this point, so make sure you can trace a line from the **+** to the **positive** blob and from the **-** to the **negative** blob without the lines crossing.
 
