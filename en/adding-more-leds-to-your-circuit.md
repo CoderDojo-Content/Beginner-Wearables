@@ -2,16 +2,13 @@
  * The LEDs must be of the same type, either all sewable or all non-sewable. It works best with sewable LEDs as you can connect many more of them to the same battery without the power being reduced.
  
  You will connect the LEDs in *parallel*. There are two ways to do this.
-2. One option is to create a whole new "loop" in your circuit for each LED that you want to add. In other words, repeat the process you followed to attach the first LED to the battery holder. You can connect additional LEDs to the same holes you already used on the battery holder, or to the other two holes. Here is an example of a separate loop using the other two holes. I haven't sewn the circuit onto anything, so you can see the threads clearly.![](/assets/more_leds_separate_120_333_650.png)
- * This gives each LED its own separate circuit with the same battery
+2. One option is to connect the LED directly to the battery, just like the first LED. It is ok to use the same holes more than once on the battery holder - the only limit is how much thread you can fit through! The circuit in the picture hasn't been sewn onto anything, so you can see the threads clearly.![](/assets/more_leds_separate_120_333_650.png)
  * You have to make sure all the threads are kept separate and don't cross over or touch, just like before.
-3. Another option is to **extend** your existing circuit. With this method, you carry on the thread from both ends of the first LED and connect it to the matching ends of the next LED. Make sure the positive and negative threads don't cross or touch.
-
- In the below example, I have used the same two long pieces of thread for both LEDs. You could also use two new pieces of thread, connecting the new LED to the first one just like you would connect it to a battery.![](/assets/more_leds_extended_120_225_650.png)
+3. Another option is to attach the new LED to the LED already in your circuit, instead of to the battery. You match up the **+** to the **+** and the **-** to the **-** as you would if you were connecting it to a battery. Make sure the positive and negative threads don't cross or touch. In the below example, the same two long pieces of thread are used for both LEDs. You could also use separate pieces of thread for each LED.![](/assets/more_leds_extended_120_225_650.png)
+ 
+4. 
  * This method is great for saving thread, and also keeps the circuit simpler than the one in step 2.
  
-4. I am going to extend the circuit on my badge so that LEDs on separate pieces of felt can be joined onto it!
-
 5. Take an LED and decide where on your badge you want to put it. You will sew it on and connect it to either the battery holder, or the LED you already attached - whichever is closer to it. I am going to connect it to the LED.
 
 6. Holding the LED in place, use a needle and a new piece of conductive thread to secure the *negative* hole of the LED like you did the first time.
