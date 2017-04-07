@@ -21,7 +21,7 @@
 
 10. Ta-daa! Your badge has two LEDs on it!
  
-![](/assets/badge_extended_lit_150_99_650.png)
+![](/assets/badge_second_led_150_106_650.png)
 
   
 
