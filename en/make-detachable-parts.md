@@ -1,5 +1,5 @@
 1. You can also extend your badge circuit so that separate pieces of felt with their own LEDs can be joined onto it to make them light up! 
- * The LEDs must be of the same type, either all sewable or all non-sewable. It works best with sewable LEDs as you can connect many more of them to the same battery without the power being reduced.
+ * All the LEDs must be of the same type, either all sewable or all non-sewable. 
 
 2. First you will need another badge. This one will not have a battery of its own. But without a battery, where will the threads go?
 
