@@ -9,13 +9,15 @@
 
 5. Once you have one blob for the negative, and one blob for the positive, the new badge is ready. Now you just need to extend the circuit on the main badge (the one with the battery).
 
-6. Decide where you want to the badges to join together. Mark two spots on the first badge where the positive and negative "blobs" touch it. You will be sewing matching blobs here for them to connect to. You can put the new badge to one side for the next bit.
+6. Decide where you want to the badges to join together. You will be sewing stitches from the LED on the original badge (the one with the battery) to this point, so make sure you can trace a line from the **+** to the **positive** blob and from the **-** to the **negative** blob without the lines crossing.
 
-7. Taking new thread, sew a bunch of stitches at the spot you marked for the *negative* blob.
+7. Mark two spots on the first badge where the positive and negative "blobs" touch it. You are going to sew matching blobs here for them to connect to. You can put the new badge to one side for the next bit.
+
+7. Taking new thread, sew a bunch of stitches at the spot you marked for the **negative** blob.
  
-8. Then sew a *running stitch* all the way to the LED on this badge and secure it to the *negative* hole.
+8. Then sew a **running stitch** all the way to the LED on this badge and secure it to the **-** hole.
  
-9. Repeat steps 7. and 8. to make a *positive* blob that is connected to the *positive* hole of the same LED.
+9. Repeat steps 7. and 8. to make a **positive** blob that is connected to the **+** hole of the same LED.
  
 10. When you are done it should look something like this:![](/assets/badge_extension_front_back_120_650.png)
 
