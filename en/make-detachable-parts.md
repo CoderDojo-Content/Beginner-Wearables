@@ -28,6 +28,6 @@
 11. When you are done it should look something like this:![](/assets/badge_extension_front_back_120_650.png)
 
 12. Your badges are ready to be joined together! Pop the battery back into its holder. Place the new badge onto the main badge so the blobs make contact. Remember to match up **+** to **+** and **-** to **-**. You should see the new badge suddenly light up!
-[](/assets/badge_extended_unlit_lit_150_650.png)
+![](/assets/badge_extended_unlit_lit_150_650.png)
 
-13. You can join many pieces together like this. Anywhere you have an LED, you can sew extra **running stitches** from it and make two "blobs" for connecting another piece. 
+13. You can join many pieces together in this way. Anywhere you have an LED, you can sew extra **running stitches** from it and make two "blobs" for connecting another piece. 
