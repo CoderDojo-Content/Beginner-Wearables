@@ -3,7 +3,7 @@
  
  You will connect the LEDs in **parallel**. There are two ways to do this.
 2. One option is to connect the LED directly to the battery, just like the first LED. It is ok to use the same holes more than once on the battery holder - the only limit is how much thread you can fit through! The circuit in the picture hasn't been sewn onto anything, so you can see the threads clearly.![](/assets/more_leds_separate_120_333_650.png)
-3. Another option is to attach the new LED to the LED already in your circuit, instead of to the battery. You match up the **+** to the **+** and the **-** to the **-** as you would if you were connecting it to a battery. Make sure the positive and negative threads don't cross or touch. In the below example, the same two long pieces of thread are used for both LEDs. You could also use separate pieces of thread for each LED.![](/assets/more_leds_extended_120_225_650.png)
+3. Another option is to attach the new LED to the LED already in your circuit, instead of to the battery. You match up the **+** to the **+** and the **-** to the **-** as you would if you were connecting it to a battery. In the below example, the same two long pieces of thread are used for both LEDs. You could also use separate pieces of thread for each LED.![](/assets/more_leds_extended_120_225_650.png)
  
 4. Deciding which option to use depends on where you are putting the new LED. 
  * The best place to connect it is usually whichever is closer.
