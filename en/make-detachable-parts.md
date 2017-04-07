@@ -15,7 +15,7 @@
  
 7. Decide where you want to the badges to join together. You will be sewing stitches from the LED on the main badge to this point, so make sure you can trace a line from the **+** to the **positive** blob and from the **-** to the **negative** blob without the lines crossing.
 
-8. Mark two spots on the first badge where the **positive** and **negative** "blob" touch it. You are going to sew matching blobs here for them to connect to. You can put the new badge to one side for the next bit.
+8. Mark two spots on the first badge where the **positive** and **negative** blobs touch it. You are going to sew matching blobs here for them to connect to. You can put the new badge to one side for the next bit.
 
 9. Taking new thread, sew a bunch of stitches at the spot you marked for the **negative** blob. Then sew a **running stitch** all the way to the LED on this badge and secure it to the **-** hole.
  
