@@ -19,9 +19,7 @@
 
 9. Now connect the **+** hole of the new LED, using the same method.
 
-10. Ta-daa! Your badge has two LEDs on it!
- 
-![](/assets/badge_second_led_150_106_650.png)
+10. Ta-daa! Your badge has two LEDs on it! ![](/assets/badge_second_led_150_106_650.png)
 
   
 
