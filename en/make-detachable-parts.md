@@ -23,4 +23,4 @@
 11. Your badges are ready to be joined together! Pop the battery back into its holder. Place the new badge onto the main badge so the blobs make contact. Remember to match up **+** to **+** and **-** to **-**. You should see the new badge suddenly light up!
 ![](/assets/badge_extended_unlit_lit_150_650.png)
 
-12. You could use the "blobs" technique to make a simple soft switch on your project, for example put a **positive** blob at either end of a bracelet that come in contact when you put it on.
+12. You could use this technique to make a simple soft switch on your project, for example put a **positive** blob at either end of a bracelet that come in contact when you put it on.
