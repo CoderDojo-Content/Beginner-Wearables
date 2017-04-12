@@ -9,7 +9,7 @@
 5. To finish, sew about three tiny stitches right next to where you attached the battery holder, all in the same place. This will secure the end of the thread to stop your work unravelling.
 
 6. Cut the thread so that only a tiny bit is hanging out of the felt. 
- * This video http://dojo.soy/wear-finishing 
+ * Here is a video of the last bit: http://dojo.soy/wear-finishing 
 
  ![](/assets/tiny_stitches_triple_80_650.png)
 
