@@ -20,4 +20,4 @@
  * Practice makes perfect! If you have never sewn before it can be quite tricky in the beginning. Don't worry, you'll get the hang of it :) 
  * Here are some videos that might be helpful if you are new to sewing:
     * (soy link to https://youtu.be/_VhLwGwpk9A)
-    * (soy link to https://youtu.be/pUjeQAXHf2U)
+    * http://dojo.soy/wear-finishing
