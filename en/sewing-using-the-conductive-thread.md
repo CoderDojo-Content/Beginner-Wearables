@@ -18,5 +18,4 @@
 
 9. You have now learned how to attach wearable components to your project. Almost there!
  * Practice makes perfect! If you have never sewn before it can be quite tricky in the beginning. Don't worry, you'll get the hang of it :) 
- * This video might be helpful if you are new to sewing:
-    * http://dojo.soy/wear-stitches
+ * This video might be helpful if you are new to sewing: http://dojo.soy/wear-stitches
