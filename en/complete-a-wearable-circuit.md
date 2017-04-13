@@ -24,4 +24,4 @@
  ![](/assets/badge_back_150_118_650.png) 
 10. If you like, you could cover the battery holder with an extra piece of felt too. You can also decorate your badge with different coloured felt or thread. Covering the LED with felt will give it a soft glow. You design your own fashion!
 
-11. Congratulations! Your badge is done and you have sewn a complete wearable circuit! The following extra Cards show you how to add more LEDs to your circuit and are optional.
+11. Congratulations! Your badge is done and you have sewn a complete wearable circuit! The following extra Cards show you how to add more LEDs and are optional.
