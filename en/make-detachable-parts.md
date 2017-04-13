@@ -4,7 +4,7 @@
 
 3. When you sew your LED onto this new badge, do the running stitches all the way to the edge of the felt, or near the edge. Remember to keep the **positive** and **negative** threads separate from each other!
 
-4. Then sew several medium sized stitches next to each other or in a criss-cross. You want to make it look like a "blob" of conductive thread on the felt. Finish the stitching as normal, by doing 3 tiny stitches in one spot before cutting the thread short.
+4. Then sew several medium sized stitches next to each other or in a criss-cross. You want to make it look like a "blob" of conductive thread on the felt. Finish the stitching as normal, by doing three tiny stitches in one spot before cutting the thread short.
 ![](/assets/new_badge_blobs_front_back_80_650.png)
 
 5. Once you have one blob for the **negative**, and one blob for the **positive**, the new badge is ready. If you want, you can repeat these steps so that you extend the circuit to another pair of blobs at the opposite edge of the new badge, like this:
