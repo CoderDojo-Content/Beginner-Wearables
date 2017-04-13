@@ -1,6 +1,6 @@
 1. By now you have needle and thread coming out of the felt where the LED has been attached. Imagine a line between this spot and the spot you marked for the **-** of the battery holder. If it helps, you could draw the line on the felt. You will sew a **running stitch** along this line to connect the LED to the battery holder. 
 
-2. Place the tip of the needle on the line about 1cm (or a finger-space) away from where the thread is coming out of the felt, and push it through, pulling the needle and thread all the way through as before.
+2. Place the tip of the needle on the line about 1cm away from where the thread is coming out of the felt and push it through, pulling the needle and thread all the way through as before.
 
 3. On the other side of the felt, repeat step 2. Keep doing this until you reach the spot you marked for the **-** hole of the battery holder.
 
