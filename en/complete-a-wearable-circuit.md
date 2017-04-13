@@ -23,3 +23,5 @@
 
  ![](/assets/badge_back_150_118_650.png) 
 10. If you like, you could cover the battery holder with an extra piece of felt too. You can also decorate your badge with different coloured felt or thread. Covering the LED with felt will give it a soft glow. You design your own fashion!
+
+11. This is the end of the Sushi Card series. The following are extra Sushi Cards that show you how to 
