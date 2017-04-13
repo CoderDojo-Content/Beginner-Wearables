@@ -15,7 +15,7 @@
 
 7. Holding the LED in place, use a needle and a new piece of conductive thread to secure the **-** hole of the LED like you did the first time.
 
-8. The next step is the running stitch. If you are connecting the LED to the other LED, then this time the stitches will go in a line towards the **-** hole of the other LED, instead of to the battery holder. Once you reach the correct hole, do 3 stitches through the it and 3 tiny stitches to finish, exactly as you have done before.
+8. The next step is the running stitch. If you are connecting the LED to the other LED, then this time the stitches will go in a line towards the **-** hole of the other LED, instead of to the battery holder. Once you reach the correct hole, do three stitches through the it and three tiny stitches to finish, exactly as you have done before.
 
 9. Now connect the **+** hole of the new LED, using the same method.
 
