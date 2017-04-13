@@ -13,6 +13,6 @@
  * Regular embroidery thread (or any kind of thread) (optional)
  * Scissors
  * Pliers (optional, preferably round-nosed)
- * Tape - electrical or masking tape, or any other removable tape
+ * Tape-electrical or masking tape, or any other removable tape
  * A safety pin or any kind of badge pin
  
