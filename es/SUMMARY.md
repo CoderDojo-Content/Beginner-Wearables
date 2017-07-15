@@ -1,11 +1,11 @@
 # Summary
 
-* [About this series](README.md)
-* [Getting setup](getting-setup.md)
-* [Making a circuit](first-card-trying-out-the-parts.md)
-* [Adding a switch](make-your-own-switch.md)
-* [Sewing on components](sewing-using-the-conductive-thread.md)
-* [Complete a wearable circuit](complete-a-wearable-circuit.md)
-* [Adding more LEDs](adding-more-leds-to-your-circuit.md)
-* [Make detachable parts](make-detachable-parts.md)
+* [Acerca de](README.md)
+* [Qué necesito](getting-setup.md)
+* [Diseñar un circuito](first-card-trying-out-the-parts.md)
+* [Añadir un interruptor](make-your-own-switch.md)
+* [Coser componentes](sewing-using-the-conductive-thread.md)
+* [Completar un circuito Wearable](complete-a-wearable-circuit.md)
+* [Añadir más LEDs](adding-more-leds-to-your-circuit.md)
+* [Construir las piezas desmontables](make-detachable-parts.md)
 
