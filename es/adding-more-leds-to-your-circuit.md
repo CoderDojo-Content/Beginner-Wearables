@@ -1,26 +1,27 @@
-1. Adding more LEDs to a circuit is easy! You don't need any additional batteries. 
- * The LEDs must be of the same type, either all sewable or all non-sewable. It works best with sewable LEDs as you can connect many more of them to the same battery without the power being reduced.
- 
- You will connect the LEDs in **parallel**. There are two ways to do this.
-2. One option is to connect the LED directly to the battery, just like the first LED. It is ok to use the same holes more than once on the battery holder-the only limit is how much thread you can fit through! The circuit in the picture hasn't been sewn onto anything, so you can see the threads clearly.![](/assets/more_leds_separate_120_333_650.png)
-3. Another option is to attach the new LED to the LED already in your circuit, instead of to the battery. You match up the **+** to the **+** and the **-** to the **-** as you would if you were connecting it to a battery. In the below example, the same two long pieces of thread are used for both LEDs. You could also use separate pieces of thread for each LED.![](/assets/more_leds_extended_120_225_650.png)
- 
-4. Deciding which option to use depends on where you are putting the new LED. 
- * The best place to connect it is usually whichever is closer.
- * You also need to make sure all the different threads are kept separate and don't cross over or touch, so it is a good idea to look at where the **+**'s and **-**'s are when deciding.
+1. ¡Añadir más LEDs a un circuito es fácil! No necesitas más pilas. 
 
-5. Take an LED and decide where on your badge you want to put it. You will sew it on and connect it to either the battery holder or the LED you already attached-whichever is easier.
+   * Los LEDs deben ser del mismo tipo, ya sean cosibles o no-cosibles. Funciona mejor con LEDs que se puedan conectar, ya que puedes conectar muchos más a la misma pila sin reducir la potencia. 
+   * Conecta los LEDs **"en paralelo"**. Hay dos maneras de hacer esto.
 
-6. Pop the battery out of the battery holder for now. When working on a circuit, it is important to always make sure is is not **live** by switching it off or taking out the battery.
+2. Una opción es conectar el LED directamente a la pila, al igual que el primer LED. Está bien usar los mismos agujeros más de una vez en el portapilas, ¡el único límite es cuánto hilo puede caber! El circuito de la imagen no se ha sido cosido en nada, para que puedas ver los hilos claramente.![](/assets/more_leds_separate_120_333_650.png)
+3. Otra opción es conectar el nuevo LED al LED que ya está en tu circuito, en lugar de hacerlo a la pila. Conecta el **+** con el **+** y el **- **con el **-** como lo harías si estuvieras conectándolo a una pila. En el siguiente ejemplo, se utilizan los mismos dos trozos largos de hilo para ambos LED. También puede utilizar piezas separadas de hilo para cada LED.   .![](/assets/more_leds_extended_120_225_650.png)
 
-7. Holding the LED in place, use a needle and a new piece of conductive thread to secure the **-** hole of the LED like you did the first time.
+4. Decide qué opción utilizar dependiendo de dónde se ponga el nuevo LED.
 
-8. The next step is the running stitch. If you are connecting the LED to the other LED, then this time the stitches will go in a line towards the **-** hole of the other LED, instead of to the battery holder. Once you reach the correct hole, do three stitches through the it and three tiny stitches to finish, exactly as you have done before.
+   *  El mejor lugar para conectar es normalmente, lo que esté más cerca.
+   * También es necesario asegurarse de que todos los hilos diferentes se mantengan separados y no se crucen ni se toquen, por lo que es una buena idea para mirar donde están los **+**  y **- **cuando se decida.
 
-9. Now connect the **+** hole of the new LED, using the same method.
+5. Toma un LED y decide dónde lo quieres poner en tu insignia. Cóselo y conéctalo al portapilas o al LED que ya haya conectado, lo que sea más fácil.
 
-10. Ta-daa! Your badge has two LEDs on it! ![](/assets/badge_second_led_150_106_650.png)
+6. Saca la pila del portapilas, de momento. Cuando se trabaja en un circuito, es importante asegurarse siempre de que no está conenctado, desconectándolo o sacando la pila.
 
-  
+7. Sujeta el LED en su sitio, usa una aguja de coser y un nuevo trozo de hilo conductor para asegurar el agujero del LED como lo hiciste la primera vez.
+
+8. El siguiente paso es la puntada sencilla. Si estás conectando un LED al otro LED, entonces esta vez cose las puntadas en línea recta hacia el agujero del otro LED, en vez de ir al portapilas. Una vez llegues al agujero correcto, haz tres puntadas  y tres puntadas diminutas para terminar, exactamente como lo has hecho antes.
+
+9. Ahora conecta el agujero **+** del nuevo LED, usando el mismo método.
+
+10. Tachan! ¡Tu insignia tiene ahora dos LEDs! ![](/assets/badge_second_led_150_106_650.png)
+
 
 
