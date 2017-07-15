@@ -21,6 +21,7 @@ Las diferentes partes de un circuito electrónico se denominan **componentes**. 
 * Tijeras
 
 * Alicates \(opcional, preferiblemente de punta redonda\)
+
 * Cinta aislante o cinta adhesiva, o cualquier otra cinta que pueda despegarse.
 
 * Un pasador de seguridad o cualquier tipo de pin  o broche.
