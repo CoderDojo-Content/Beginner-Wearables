@@ -1,8 +1,17 @@
-1. These Sushi Cards will introduce you to Wearable Electronics. These are electronic circuits made using components (parts) especially designed to be sewn directly into clothes or accessories. 
-2. You will get to learn about and make electronic circuits and also do some sewing.
-3. You are going to make a felt badge or patch that lights up
- ![](/assets/badge_lit_150_110_650.png)
-4. You can also design the badge so that lots of them can be joined together to make a glowing patchwork. This might be fun to do together with other Ninjas!
-5. You can use this stuff to decorate clothes, bags, hats... The possibilities are unlimited!
+![](/assets/badge_lit_150_110_650.png)
 
- ![](/assets/robot_headband_340_150_800.png)
+
+
+![](/assets/robot_headband_340_150_800.png)
+
+1. Con estas tarjetas Sushi te iniciarás en la Electrónica _Wearable_. Se trata de circuitos electrónicos hechos con componentes \(partes\) especialmente diseñados para ser cosidos directamente en la ropa o en accesorios.
+
+2. Aprenderás sobre los circuitos electrónicos y a construirlos. También aprenderás algo de costura.
+   ..
+3. Lo que vas a hacer es un recorte de fieltro o un parche que se ilumina
+   .
+4. También puede diseñar una insignia  para unirlas, cosiendo muchas de ellas y  crear un mosaico brillante. Esto sería divertido hacerlo con otros Ninjas!
+5. Puedes utilizar este materia para adornar ropa, mochilas, gorras ... ¡Las posibilidades son ilimitadas!
+
+
+
