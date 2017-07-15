@@ -1,26 +1,28 @@
-1. You can also extend your badge circuit so that separate pieces of felt with their own LEDs (of the same type) can be joined onto it to make them light up! 
+1. También puedes ampliar tu circuito de insignia para que se puedan unir piezas separadas de fieltro con sus propios LEDs \(del mismo tipo\) para que se iluminen! 
 
-2. First you will need another badge. This one will not have a battery of its own. But without a battery, where will the threads go?
+2. Primero necesitarás otra insignia. Esta no tendrá una pila propia. Pero sin pila, ¿dónde van los hilos? 
 
-3. When you sew your LED onto this new badge, do the running stitches all the way to the edge of the felt, or near the edge. Remember to keep the **positive** and **negative** threads separate from each other!
+3. Cuando cosas el LED en esta nueva insignia, haz las puntadas continuas hasta el borde del fieltro, o cerca del borde. Recuerda mantener los hilos **positivos** y **negativos** separados entre sí! 
 
-4. Then sew several medium sized stitches next to each other or in a criss-cross. You want to make it look like a "blob" of conductive thread on the felt. Finish the stitching as normal, by doing three tiny stitches in one spot before cutting the thread short.
-![](/assets/new_badge_blobs_front_back_80_650.png)
+4. Luego cose varios puntos de tamaño mediano uno al lado del otro o en X. Necesitas hacer que se vea como una "marca" de hilo conductor en el fieltro. Terminar la costura como de costumbre, haciendo tres pequeñas puntadas en un mismopunto antes de cortar el hilo.   
+   ![](/assets/new_badge_blobs_front_back_80_650.png)
 
-5. Once you have one blob for the **negative**, and one blob for the **positive**, the new badge is ready. If you want, you can repeat these steps so that you extend the circuit to another pair of blobs at the opposite edge of the new badge, like this:
-![](/assets/new_badge_front_back_120_650.png)
+5. Una vez que tengas una marca para el negativo, y una marca para el positivo, la nueva insignia está lista. Si lo deseas, puedes repetir estos pasos para que extienda el circuito a otro par de marcas en el borde opuesto de la nueva insignia, como esto:   
+   ![](/assets/new_badge_front_back_120_650.png)
 
-6. Now you just need to extend the circuit on the main badge (the one with the battery). Remember to remove the battery from the holder first.
- 
-7. Decide where you want to the badges to join together. You will be sewing stitches from the LED on the main badge to this point, so make sure you can trace a line from the **+** to the **positive** blob and from the **-** to the **negative** blob without the lines crossing.
+6. Ahora sólo tienes que ampliar el circuito en la placa principal \(la que tiene la pila \). Recuerda quitar primero la pila del soporte. 
 
-8. Mark two spots on the first badge where the **positive** and **negative** blobs touch it. You are going to sew matching blobs here for them to connect to. You can put the new badge to one side for the next bit.
+7. Decide dónde quieres que se unan las insignias. Cose las puntadas desde el LED en la placa principal hasta este punto, asegurandote de que se pueda trazar una línea de + a la marca positiva y de la - a la marca negativa sin cruzar las líneas.
 
-9. Taking new thread, sew a bunch of stitches at the spot you marked for the **negative** blob. Then sew a running stitch all the way to the LED on this badge and secure it to the **-** hole.
- 
-10. Repeat step 9 to make a **positive** blob that is connected to the **+** hole of the same LED. When you are done it should look something like this:![](/assets/badge_ext_front_back_65_650.png)
+8. Marca dos puntos en la primera insignia donde las marcas **positivas** y **negativas** la tocan. Cose marcas coincidentes aquí para que se conecten. Puedes poner la nueva insignia a un lado para el bit siguiente. 
 
-11. Your badges are ready to be joined together! Pop the battery back into its holder. Place the new badge onto the main badge so the blobs make contact. Remember to match up **+** to **+** and **-** to **-**. You should see the new badge suddenly light up!
-![](/assets/badge_extended_unlit_lit_150_650.png)
+9. Tomando nuevo hilo, coser varias puntadas en el punto con la marca negativa. Luego coser una puntada continua hasta el LED de esta insignia y asegurarla al agujero -. 
 
-12. You could use this technique to make a simple soft switch on your project, for example put a **positive** blob at either end of a bracelet that come in contact when you close it.
+10. Repite el paso 9 para hacer una marca **positiva** que se conecte al agujero **+ **del mismo LED. Cuando hayas terminado, deberá parecer algo así::![](/assets/badge_ext_front_back_65_650.png)
+
+11. ¡Tus insignias están listas para unirse! Vuelve a colocar la pila en su soporte. Coloca la nueva insignia sobre la insignia principal para que las marcas hagan contacto. Recuerda que deben coincidir + a + y - a -. ¡Deberías ver la nueva insignia de repente encendida! ![](/assets/badge_extended_unlit_lit_150_650.png)
+
+12. Podrías utilizar esta técnica para hacer un interruptor sencillo en tu proyecto, por ejemplo, poner una marca **positiva** en cada extremo de una pulsera que cuando se cierre entren en contacto y se iluminen.
+
+
+
