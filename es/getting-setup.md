@@ -1,18 +1,35 @@
-1. The different parts of an electronic circuit are called **components**. Here is a list of the components you'll be using:
- * A battery ![](/assets/batteries_100_202_650.png) 
- 
- * LEDs—an LED is a small light. They can come in different colours, some of them can even flash or change colour. You can also get special sewable LEDs. Any kind can be used for this project. ![](/assets/LEDs_mix_150_272_650.png)
- 
- * A sewable battery holder. This is a battery holder that's attached to a special board (called a **printed circuit board** or **PCB**) that you can sew onto your project ![](/assets/battery_holders_150_196_650.png)
- 
- * Conductive thread. This is like embroidery thread but it contains metal so that electricity can flow through it. We say that it **conducts** electricity. ![](/assets/thread_150_268_650.png)
- * Crocodile clips (optional) ![](/assets/crocs_300_328_650.png)
- * A switch (optional). You will see there are lots of different kinds of switches.
- * Some fabric to sew the components onto. This could be a piece of clothing or a bag or anything you like. I will use regular craft felt.
- * Sewing needle, e.g. embroidery needle
- * Regular embroidery thread (or any kind of thread) (optional)
- * Scissors
- * Pliers (optional, preferably round-nosed)
- * Tape-electrical or masking tape, or any other removable tape
- * A safety pin or any kind of badge pin
- 
+ ![](/assets/batteries_100_202_650.png)
+
+*  ![](/assets/LEDs_mix_150_272_650.png)
+
+*  ![](/assets/battery_holders_150_196_650.png)
+
+*  ![](/assets/thread_150_268_650.png)
+
+*  ![](/assets/crocs_300_328_650.png)
+
+
+
+1. Las diferentes partes de un circuito electrónico se denominan **componentes**. A continuación se muestra una lista de los componentes que utilizarás:
+
+* Una batería
+
+* LEDs: un LED es una luz pequeña. Pueden venir en diversos colores, algunos de ellos pueden incluso destellar o cambiar de color. También puedes utilizar LEDs especiales que se pueden conectar. Se puede utilizar cualquier tipo de LED para este proyecto.
+
+* Un soporte para baterías. Se trata de un soporte de batería que se une a una placa especial \(llamada **placa de circuito impreso** o PCB\) y que se puede coser en tu proyecto  .
+
+* Hilo conductor. Esto es como el hilo de coser, pero contiene metal para que la electricidad puede circular a través de él. Decimos que "**conduce la electricidad**".
+
+* Pinzas cocodrilo \(opcional\)
+* Un interruptor \(opcional\). Verás que hay muchos tipos diferentes de interruptores.
+* Alguna tela para coser los componentes. Podría ser una pieza de ropa, una bolsa o cualquier cosa que te guste. Aquí utilizaremos fieltro normal.
+* Aguja de coser, por ejemplo una aguja de bordar \(algo más gruesa\)
+* Hilo de coser \(o cualquier tipo de hilo\) \(opcional\)
+* Tijeras
+* Alicates \(opcional, preferiblemente de punta redonda\)
+* Cinta aislante o cinta adhesiva, o cualquier otra cinta que pueda despegarse.
+
+* Un pasador de seguridad o cualquier tipo de pin  o broche.
+
+
+
