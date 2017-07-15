@@ -1,21 +1,25 @@
-1. Cut a piece of felt to the size you want for your badge. Decide where you are going to put the LED and mark the spot on the felt. Now decide where to put your battery holder. It could be on the back! Mark the spot for one of the positive holes and one of the negative holes with a **+** and **-**.
+1. Corta un pedazo de fieltro del tamaño que desees para tu insignia. Decide dónde vas a poner el LED y marca el punto en el fieltro. Ahora decide dónde colocar el portapilas. ¡Podría estar en la parte posterior! Marca el punto para uno de los agujeros positivos y uno de los agujeros negativos con a + y -.
 
-2. If you are using a regular LED, you will need to bend the pins into loops. A pliers can be helpful here. If you have a sewable LED, skip this step!
-![](/assets/led_pins_loops_80_92_650.png)
+2. Si estás usando un LED normal, tendrás que doblar los bornes en bucles. Una pinza puede ser útil aquí. ¡Si tienes un LED que se cose, salta este paso!  
+   ![](/assets/led_pins_loops_80_92_650.png)
 
-3. Thread your needle! Take a piece of conductive thread, about 30cm long, and pull one end of it through the hole in the needle (called the **eye**). This can be pretty fiddly. If the thread is frayed at the end, cut off the frayed bits with a scissors. Once the needle is threaded, the thread will be hanging out in two pieces. Pull one of them so it is a good bit longer than the other and tie a knot in the very end of the long piece.
+3. ¡Enhebra la aguja! Toma un pedazo de hilo conductor, unos 30 cm de largo, y tira de un extremo de él a través del agujero en la aguja \(el **ojo**\). Esto puede costarte un poco... Si el hilo está deshilachado en el extremo, corta antes los trozos desgastados con unas tijeras. Una vez que la aguja está pasada, el hilo estará colgando en dos trozos. Tira de uno de ellos para que esté un poco más largo que el otro y haz un nudo en el extremo del trozo más largo.
 
-4. Ready to start sewing? Place your LED onto the felt at the spot you have chosen. With one hand, hold onto the felt and the LED. With the other hand, place the tip of the needle *behind* the felt and push it through so that it comes out through the **-** hole of the LED. 
-![](/assets/needle_through_LED_100_179_650.png)
+4.  ¿Listo para empezar a coser? Coloca tu LED en el fieltro en el lugar que has elegido. Con una mano, sujeta el fieltro y el LED. Con la otra mano, coloca la punta de la aguja detrás del fieltro y empújela para que salga por el agujero del LED.   
+   ![](/assets/needle_through_LED_100_179_650.png)
 
-5. Pull the needle and thread all the way through at the front. Try holding the needle by the eye and pinching the thread tightly there to keep it from falling out of the needle while you pull (if it does fall out, it's ok, you can re-thread it). You want to keep pulling until only the knot remains at the back. ![](/assets/pull_thread_through_100_239_650.png)
+5. Estira de la aguja y pasa todo el hilo a través de la parte delantera. Trate de sujetar la aguja por el ojo y pellizcar el hilo firmemente para evitar que se salga de la aguja mientras estiras \(si se sale, no pasa nada, se puede volver a pasar\). Tienes que seguir tirando hasta que el nudo se pare en la parte posterior.. ![](/assets/pull_thread_through_100_239_650.png)
 
-6. Now, place the tip of the needle *right beside* the **-** hole of the LED (the one it just came through), but *not inside* it. Like this:![](/assets/needle_next_to_LED_100_180_650.png)
+6. Ahora, coloca la punta de la aguja justo al lado del agujero del LED \(el que acaba de llegar\), pero no dentro de él. Como esto:![](/assets/needle_next_to_LED_100_180_650.png)
 
-7. Push the needle through the felt so it comes out the back. Grab the needle behind the felt and pull it all the way through, just like you did at the front. You've just sewn your first stitch! It should look something like this:![](/assets/first_stitch_80_225_650.png)
+7. Empuja la aguja a través del fieltro para que salga por la parte trasera. Agarra la aguja detrás del fieltro y estira todo el hilo, igual que lo hiciste antes. Acabas de coser tu primera puntada! Debe ser algo así:   ![](/assets/first_stitch_80_225_650.png)
 
-8. Repeat steps 6 and 7 three more times. Be sure to pull the thread tight each time. This will create a good connection and keep the LED secured tightly to the felt.
+8. Repite los pasos 6 y 7 tres veces más. Asegúrate de apretar el hilo cada vez. Esto creará una buena conexión y mantendrá el LED asegurado firmemente al fieltro.
 
-9. You have now learned how to attach wearable components to your project. Almost there!
- * Practice makes perfect! If you have never sewn before it can be quite tricky in the beginning. Don't worry, you'll get the hang of it ☺︎
- * This video might be helpful if you are new to sewing: [dojo.soy/wear-stitches](http://dojo.soy/wear-stitches)
+9. Has aprendido cómo unir componentes _wearables_ a tu proyecto. ¡Casi lo tienes!
+
+   * ¡La práctica hace la perfección! Si nunca antes habías cosido puede ser bastante difícil al principio. No te preocupes, conseguirás manejarlo!!☺︎
+   * Este video puede ser útil si eres nuevo en el arte de la costura: [dojo.soy/wear-stitches](http://dojo.soy/wear-stitches)
+
+
+
