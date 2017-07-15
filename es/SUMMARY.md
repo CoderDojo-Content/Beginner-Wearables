@@ -1,7 +1,7 @@
 # Summary
 
 * [Acerca de](README.md)
-* [Qué necesito](getting-setup.md)
+* [Qué necesitas](getting-setup.md)
 * [Diseñar un circuito](first-card-trying-out-the-parts.md)
 * [Añadir un interruptor](make-your-own-switch.md)
 * [Coser componentes](sewing-using-the-conductive-thread.md)
