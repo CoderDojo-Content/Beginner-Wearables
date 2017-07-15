@@ -1,27 +1,34 @@
-1. By now you have needle and thread coming out of the felt where the LED has been attached. Imagine a line between this spot and the spot you marked for the **-** of the battery holder. If it helps, you could draw the line on the felt. You will sew a **running stitch** along this line to connect the LED to the battery holder. 
+1. Por ahora tienes aguja e hilo que sale del fieltro donde el LED se ha conectado. Imagina una línea entre este punto y el lugar que has marcado para el portapilas. Si te ayuda, puedes dibujar la línea en el fieltro. Ahora cose una **puntada sencilla** a lo largo de esta línea para conectar el LED al portapilas.
 
-2. Place the tip of the needle on the line about 1cm away from where the thread is coming out of the felt and push it through, pulling the needle and thread all the way through as before.
+2. Coloca la punta de la aguja en la línea de alrededor de 1 cm de distancia de donde el hilo sale del fieltro y empuja a través de la tela, tirando de la aguja y el hilo hasta el final a través de la tela, como antes.
 
-3. On the other side of the felt, repeat step 2. Keep doing this until you reach the spot you marked for the **-** hole of the battery holder.
+3. En el otro lado del fieltro, repite el paso 2. Continúa haciendo esto a lo largo de la linea hasta llegar al punto que marcaste para el agujero del portapilas.
 
-4. Next, put your battery holder into place on the felt. Then, just like you did for the LED, attach the battery holder by sewing three stitches through the **-** hole. Remember to make sure they are good and tight!
+4. A continuación, pon el portapilas en su sitio en el fieltro. Luego, al igual que hiciste con el LED, conecta el portapilas cosiendo tres puntos a través del agujero. Recuerda asegurarte de que las puntadas son buenas y apretadas!
 
-5. To finish, sew about three tiny stitches right next to where you attached the battery holder, all in the same place. This will secure the end of the thread to stop your work unravelling.
+5. Para terminar, cose tres pequeñas puntadas justo al lado de donde pusiste el portapilas, todas en el mismo lugar. Esto asegurará el final del hilo para que no se deshaga tu trabajo.
 
-6. Cut the thread so that only a tiny bit is hanging out of the felt. 
- * Here is a video of the last bit: [dojo.soy/wear-finishing](http://dojo.soy/wear-finishing) 
+6. Corta el hilo para que sobresalga solo un poco fuera del fieltro.
 
- ![](/assets/tiny_stitches_triple_80_650.png)
+   * Aquí está el ultimo tramo del video: [dojo.soy/wear-finishing](http://dojo.soy/wear-finishing) 
 
-7. You now have half of your circuit sewn. To complete the circuit, you need to connect the **+** hole on the LED with the **+** hole on the battery holder. Use the same method you already used to connect the **negatives**. I am not including a switch in this circuit, but you could if you wanted, using a third piece of thread as before.
- * *Important!* Make sure the path for your **positive** thread *does not cross or touch* the **negative** thread or any edges of the battery holder anywhere. Remember, this would cause a **short circuit** (a bad thing)!
-![](/assets/sewing_complete_double_100_650.png)
- 
-8. Insert a battery into the battery holder and watch your LED light up ☺︎
+   ![](/assets/tiny_stitches_triple_80_650.png)
 
-9. If you are attaching a pin to your badge, it is a good idea to put it onto a separate piece of felt that you attach to the back of your badge. This ensures the pin does not touch any part of your circuit—since the pin is metal that would cause a short circuit. Use ordinary ordinary thread for the extra sewing—or you could use glue or tape instead. 
+7. Ahora tiene cosido la mitad de tu circuito. Para completar el circuito, debes hacer coincidir el orificio + en el LED con el orificio + del portapilas. Utiliza el mismo método que ya utilizaste para conectar los **negativos**. No es necesario incluir un interruptor en este circuito, pero podrías si quisieras, usando, como antes, un tercer pedazo de hilo.
 
- ![](/assets/badge_back_150_118_650.png) 
-10. If you like, you could cover the battery holder with an extra piece of felt too. You can also decorate your badge with different coloured felt or thread. Covering the LED with felt will give it a soft glow. You design your own fashion!
+   * _¡Importante! _Asegúrate de que la trayectoria de tu hilo **positivo** no cruza ni toca el hilo **negativo** o cualquier borde del portapilas. Recuerda que esto podría causar un **cortocircuito** \(nada bueno\)!
 
-11. Congratulations! Your badge is done and you have sewn a complete wearable circuit. The following extra Sushi Cards show you how to add more LEDs and are optional.
+     ![](/assets/sewing_complete_double_100_650.png)
+
+8. Inserta una pila en el portapilas y mira si se enciende la luz LED ☺︎
+
+9. Si vas a añadir una aguja a tu insignia, sería buena idea ponerla en una pieza separada de fieltro que se adjunte a la parte posterior de tu insignia. Esto asegura que el pin o aguja no toque ninguna parte de tu circuito, ya que el pin es de metal y podría causar un cortocircuito. Utiliza el hilo común ordinario para la costura adicional - o en vez de esto, podrías utilizar pegamento o cinta aislante.
+
+   ![](/assets/badge_back_150_118_650.png)
+
+10. Si quieres, puedes cubrir también el portapilas con una pieza más de fieltro. También puedes decorar tu insignia con fieltro o hilos de diferentes colores. Si cubres el LED con fieltro le dará un brillo suave. Diseña tu propia moda!
+
+11. ¡Felicidades! Tu insignia está hecha y has cosido un circuito _wearable_ completo. Las siguientes tarjetas de Sushi te enseñarán cómo añadir más LEDs y son opcionales.
+
+
+
