@@ -6,9 +6,9 @@ Las diferentes partes de un circuito electrónico se denominan **componentes**. 
 
 * Un soporte para baterías. Se trata de un soporte de batería que se une a una placa especial \(llamada **placa de circuito impreso** o PCB\) y que se puede coser en tu proyecto![](/assets/battery_holders_150_196_650.png)
 
-* Hilo conductor. Esto es como el hilo de coser, pero contiene metal para que la electricidad puede circular a través de él. Decimos que "**conduce la electricidad**". 
+* Hilo conductor. Esto es como el hilo de coser, pero contiene metal para que la electricidad puede circular a través de él. Decimos que "**conduce la electricidad**". \(missing image \)
 
-* Pinzas cocodrilo \(opcional\)
+* Pinzas cocodrilo \(opcional\) \(missing image \)
 
 * Un interruptor \(opcional\). Verás que hay muchos tipos diferentes de interruptores.
 
@@ -17,6 +17,7 @@ Las diferentes partes de un circuito electrónico se denominan **componentes**. 
 * Aguja de coser, por ejemplo una aguja de bordar \(algo más gruesa\)
 
 * Hilo de coser \(o cualquier tipo de hilo\) \(opcional\)
+
 * Tijeras
 * Alicates \(opcional, preferiblemente de punta redonda\)
 * Cinta aislante o cinta adhesiva, o cualquier otra cinta que pueda despegarse.
