@@ -6,7 +6,7 @@
    ![](assets/more_leds_separate_120_333_650.png)
 
 3. Optie 2: je verbindt de nieuwe LED met de LED die er al op zit. Je verbindt de** +** met de **+**, en de **-** met de **-**, alsof je het met de batterij verbind. Hieronder zie je dezelfde twee draden die gebruikt worden voor beide LEDs. Je kunt ook voor elke LED een aparte draad gebruiken.  
-   ![](/assets/IMG_5291.JPG)
+   ![](/nl/assets/IMG_5291.JPG)
 
 4. Bepalen welke optie je wilt gebruiken hangt af waar je de nieuwe LED gaat plaatsen.  
    \* De beste plek om te verbinden is meestal de meest nabije;  

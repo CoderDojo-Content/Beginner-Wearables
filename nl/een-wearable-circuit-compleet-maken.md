@@ -13,7 +13,7 @@
 
 7. Nu heb je een half circuit genaaid. Om het circuit compleet te maken moet je het **+** gat van de LED verbinden met het **+** gat van de batterijhouder. Gebruik dezelfde methode als bij de **negatieven**. Ik heb geen switch in dat circuit geplaatst, maar dat kun je wel doen door een derde draad te gebruiken.  
    \* _Belangrijk!_ Zorg dat je draad voor de **positieve** gaten _helemaal nergens_ de draad voor de **negatieve** gaten raakt en ook nergens tegen de batterijhouder aankomt. Denk erom: anders creëer je kortsluiting \(niet goed!\)  
-   ![](/assets/IMG_5290.JPG)
+   ![](/nl/assets/IMG_5290.JPG)
 
 8. Plaats een batterij in de batterijhouder en zie je LED oplichten :\)
 
