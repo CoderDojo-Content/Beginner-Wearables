@@ -1,5 +1,5 @@
 1. Wat als je het circuit uit wilt zetten? Dan heb je ergens in je verbindingen punten nodig om de elektrische stroom te stoppen. Een **switch** is een onderdeel waarmee je een circuit makkelijk aan en uit kunt zetten. Er zijn heel veel soorten switches: knoppen, schuifknoppen, zelfs magnetische. Ook sommige batterijhouders hebben een ingebouwde switch.  
-   ![](/nl/assets/DSCN1112.JPG)
+   ![](assets/DSCN1112.JPG)
 
 2. Haal de draad uit het **positieve **gat van de batterijhouder. Neem een nieuwe draad en stop één uiteinde daarvan door het **+** gat. Misschien heb je een extra paar handen nodig! Je kunt ook tape of krokodillenklemmen gebruiken in plaats van draad.
 
