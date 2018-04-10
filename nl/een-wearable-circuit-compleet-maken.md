@@ -4,7 +4,7 @@
 
 3. Herhaal stap 2 aan de achterkant van het vilt. Blijf dit doen tot je bij de plek komt die je gemarkeerd hebt voor het **-** gat van de batterijhouder.
 
-4. Plaats nu je batterijhouder op het vilt. Dan doe je hetzelfde als bij de LED: zet de batterijhouder vast met drie steken door het **-** gat. Onthoudt dat je de draad ook hier weer strak moet trekken!
+4. Plaats nu je batterijhouder op het vilt. Dan doe je hetzelfde als bij de LED: zet de batterijhouder vast met drie steken door het **-** gat. Onthoud dat je de draad ook hier weer strak moet trekken!
 
 5. Daarna maak je drie hele kleine steekjes vlak naast de batterijhouder, alle drie op dezelfde plek. Dit is om ervoor te zorgen dat de draad en dus al je werk niet losrafelt.
 
@@ -21,7 +21,7 @@
 
 10. Als je wilt, kun je ook extra vilt over de batterijhouder plaatsen. Je kunt je badge ook versieren met vilt of naaigaren van een andere kleur. Als je vilt over de LED plaatst dan zie je een zachte gloed als de LED oplicht. Jij maakt je eigen mode!
 
-11. Gefeliciteerd@ Je badge is klaar en je hebt een compleet wearable circuit genaaid. De volgende Sushi kaarten laten je zien hoe je extra LEDS kunt toevoegen en zijn optioneel.
+11. Gefeliciteerd! Je badge is klaar en je hebt een compleet wearable circuit genaaid. De volgende Sushi kaarten laten je zien hoe je extra LEDS kunt toevoegen en zijn optioneel.
 
 
 

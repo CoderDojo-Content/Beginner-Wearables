@@ -1,4 +1,4 @@
-1. Nu ga je je eerste elektronische circuit maken! Neem een gewone LED \(eentje met twee pinnen in plaats van een naai-LED\) en maak verbinding met de batterij door de twee pinnen tegen de batterij te houden. Zie je dat één van de pinnen langer is dan de andere? De langste pin houdt je tegen de '+' kant van de batterij aan. Zie je dat de LED oplicht?  
+1. Nu ga je je eerste elektronische circuit maken! Neem een gewone LED \(eentje met twee pinnen in plaats van een naai-LED\) en maak verbinding met de batterij door de twee pinnen tegen de batterij te houden. Zie je dat één van de pinnen langer is dan de andere? De langste pin houd je tegen de '+' kant van de batterij aan. Zie je dat de LED oplicht?  
    \* Werkt het? Zo nee, zaten de pinnen op de juiste manier tegen de batterij aan?  
    ![](/assets/DSCN1117.JPG)  
    \* Draai de batterij om zodat de pinnen verkeerd tegen de batterij aan komen \(dus de kortste pin tegen de '+' kant\). Werkt het nu nog?
@@ -9,10 +9,10 @@
 
 4. Haal de LED van de batterij en stop de batterij in de houder met de + kant naar boven \(de houder heeft ook een + teken\). Pak nu twee stukken geleidedraad. Werk eventueel samen met de ninja naast je.
 
-5. Stop één kant van de eerste draad door het **+** gat van de batterijhouder, zorg ervoor dat de draad het metaal raakt en houdt het andere eind tegen de **positieve** pin van de LED. Je kunt tape gebruiken, maar de draad gaat daardoor wat rafelen. Je kunt ook krokodillenklemmen gebruiken in plaats van draad.  
+5. Stop één kant van de eerste draad door het **+** gat van de batterijhouder, zorg ervoor dat de draad het metaal raakt en houd het andere eind tegen de **positieve** pin van de LED. Je kunt tape gebruiken, maar de draad gaat daardoor wat rafelen. Je kunt ook krokodillenklemmen gebruiken in plaats van draad.  
    ![](/assets/IMG_5280.JPG)
 
-6. Pak nu de tweede draad. Stop één kant van deze draad in het **-** gat van de batterijhouder en houdt het andere eind tegen de **negatieve** pin van de LED.  
+6. Pak nu de tweede draad. Stop één kant van deze draad in het **-** gat van de batterijhouder en houd het andere eind tegen de **negatieve** pin van de LED.  
    ![](/assets/IMG_5281.JPG)
 
 7. Zorg ervoor dat de twee draden elkaar nergens raken. Raken ze elkaar wel dan krijg je **kortsluiting** en werkt er niets.  

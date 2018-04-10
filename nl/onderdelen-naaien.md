@@ -5,10 +5,10 @@
 
 3. Neem 30cm geleidedraad en haal het door het oog van de naald. Dit is soms priegelwerk. Als het uiteinde rafelig wordt, knip dat stukje er dan van af. Zodra de draad in de naald zit, hangen er twee stukken draad uit de naald. Zorg ervoor dat één van de draden flink wat langer is dan de andere en maak een knoop in het eind van de langste draad. Laat de knoop los? Gebruik dan blanco nagellak om de knoop vast te plakken.
 
-4. Klaar om te gaan naaien? Leg de LED op de plek van het vilt waar je de LED vast wilt naaien. Houdt met één hand het vilt en de LED vast. Met de andere hand plaats je de punt van de naald _achter_ het vilt en duw je het door het vilt zodat de naald uit het **-** gat van de LED komt.  
+4. Klaar om te gaan naaien? Leg de LED op de plek van het vilt waar je de LED vast wilt naaien. Houd met één hand het vilt en de LED vast. Met de andere hand plaats je de punt van de naald _achter_ het vilt en duw je het door het vilt zodat de naald uit het **-** gat van de LED komt.  
    ![](/assets/IMG_5286.JPG)
 
-5. Trek de naald en draad er helemaal doorheen. Houdt de naald bij het oog vast en knijp een beetje zodat de draad niet uit de naald losschiet. Trek net zolang door tot de knoop aan de achterkant van het vilt zit en niet verder kan.
+5. Trek de naald en draad er helemaal doorheen. Houd de naald bij het oog vast en knijp een beetje zodat de draad niet uit de naald losschiet. Trek net zolang door tot de knoop aan de achterkant van het vilt zit en niet verder kan.
 
 6. Plaats nu de punt van de naald **direct naast** het **-** gat van de LED. Zoals dit:  
    ![](/assets/IMG_5288.JPG)

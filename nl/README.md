@@ -3,7 +3,7 @@
 3. Je gaat een vilten badge maken die oplicht.
 4. Je kunt een badge ook zo maken dat je er een heleboel aan elkaar kunt naaien tot een patchwork. Dit kan leuk zijn om samen te doen met andere ninja's!
 5. Je kunt dit gebruiken om kleding, tassen, mutsen leuker en persoonlijker te maken...er zijn ongekend veel mogelijkheden!
-   ![](/nl/assets/monsters2.jpg)
+   ![](assets/monsters2.jpg)
 
 
 
