@@ -9,7 +9,7 @@
 
 4. Haal de LED van de batterij en stop de batterij in de houder met de + kant naar boven \(de houder heeft ook een + teken\). Pak nu twee stukken geleidedraad. Werk eventueel samen met de ninja naast je.
 
-5. Stop één kant van de eerste draad door het **+** gat van de batterijhouder, zorg ervoor dat de draad het metaal raakt en houd thet andere eind tegen de **positieve** pin van de LED. Je kunt tape gebruiken, maar de draad gaat daardoor wat rafelen. Je kunt ook krokodillenklemmen gebruiken in plaats van draad.  
+5. Stop één kant van de eerste draad door het **+** gat van de batterijhouder, zorg ervoor dat de draad het metaal raakt en houdt het andere eind tegen de **positieve** pin van de LED. Je kunt tape gebruiken, maar de draad gaat daardoor wat rafelen. Je kunt ook krokodillenklemmen gebruiken in plaats van draad.  
    ![](/assets/IMG_5280.JPG)
 
 6. Pak nu de tweede draad. Stop één kant van deze draad in het **-** gat van de batterijhouder en houdt het andere eind tegen de **negatieve** pin van de LED.  

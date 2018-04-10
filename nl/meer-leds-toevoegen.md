@@ -14,5 +14,15 @@
 
 5. Pak een LED en bepaal waar je deze wilt plaatsen op je badge. Je naait de LED op je badge en verbindt het óf met de batterijhouder óf met de LED die er al op zit - wat jij het makkelijkst vindt.
 
+6. Haal de batterij uit de houder. Wanneer je aan een circuit werkt, is het belangrijk dat deze niet **live** is door het met de switch uit te zetten of de batterij eruit te halen.
+
+7. Houdt de LED op de juiste plek vast, gebruik een naald en geleidedraad om het **-** gat van de LED vast te zetten: precies zoals je het de eerste keer deed.
+
+8. Nu weer naar de rijgsteek. Als je deze LED verbindt met de andere LED, dan gaan de steken nu naar het - gat van de andere LED. Als je bij het juiste gat komt haal je er weer drie steken door en maak je het af met drie hele kleine steekjes, precies zoals de eerste keer.
+
+9. Verbindt nu het **+** gat van de nieuwe LED en doe het weer op dezelfde manier als de eerste keer.
+
+10. Ta-daa! Je badge heeft nu twee LEDS!!
+
 
 
