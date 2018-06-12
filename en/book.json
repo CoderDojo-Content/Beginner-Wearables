@@ -1,0 +1,17 @@
+{
+    "title":"Introduction to Wearables",
+    "language":"en",
+    "variables":{
+        "seriesTitle": "Introduction to Wearables"
+    },
+    "direction":"ltr",
+    "pdf":{
+        "paperSize":"a4",
+        "margin":{
+            "top": 100,
+            "left": 0,
+            "right": 0,
+            "bottom": 35
+        }
+    }
+}
